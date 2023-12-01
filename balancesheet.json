@@ -1,504 +1,590 @@
 {
-    "status": 1,
-    "dataRowCount": 7,
-    "datetime": "2023-11-30 19:42:00",
-    "data": [
-      {
-        "code": "CCV1887286I",
-        "name": "Arun",
-        "companyName": "ECS",
-        "organization": {
-          "code": "",
-          "name": ""
-        },
-        "unPaidInvoiceAmount": 5826.00,
-        "paidWaitForAckAmount": 2365.00,
-        "bookingAmount": 0,
-        "paymentTransactions": [
-          {
-            "code": "ECGINV033",
-            "transactionAmount": 3714.00,
-            "tdsTax": 0.00,
-            "adjustmentAmount": 0.00,
-            "transactionDate": "2022-07-04 20:31:36",
-            "transactionMode": {
-              "code": "UPI",
-              "name": "UPI Payment"
-            },
-            "acknowledgeStatus": {
-              "code": "INITD",
-              "name": "Initiated"
-            },
-            "paymentHandledBy": {
-              "code": "URJ42D9889",
-              "name": "Dhena EzeeInfo"
-            }
-          },
-          {
-            "code": "ECGINV032",
-            "transactionAmount": 2112.00,
-            "tdsTax": 0.00,
-            "adjustmentAmount": 0.00,
-            "transactionDate": "2022-07-01 11:30:23",
-            "transactionMode": {
-              "code": "CASH",
-              "name": "Cash Payment"
-            },
-            "acknowledgeStatus": {
-              "code": "INITD",
-              "name": "Initiated"
-            },
-            "paymentHandledBy": {
-              "code": "URF156142",
-              "name": "Ramasamy"
-            }
-          },
-          {
-            "code": "ECGINV037",
-            "transactionAmount": 0.00,
-            "tdsTax": 0.00,
-            "adjustmentAmount": 0.00,
-            "transactionDate": "2022-07-12 13:22:57",
-            "transactionMode": {
-              "code": "CASH",
-              "name": "Cash Payment"
-            },
-            "acknowledgeStatus": {
-              "code": "INITD",
-              "name": "Initiated"
-            },
-            "paymentHandledBy": {
-              "code": "URL49D36252",
-              "name": "Thiyagarajan"
-            }
-          },
-          {
-            "code": "ECGINV010",
-            "transactionAmount": 2365.00,
-            "tdsTax": 0.00,
-            "adjustmentAmount": 0.00,
-            "transactionDate": "2022-03-18 15:06:31",
-            "transactionMode": {
-              "code": "NBK",
-              "name": "Netbanking"
-            },
-            "acknowledgeStatus": {
-              "code": "PAPAID",
-              "name": "Partial Payment Paid"
-            },
-            "paymentHandledBy": {
-              "code": "URJ42D9889",
-              "name": "Dhena EzeeInfo"
-            }
-          }
-        ]
+  "status": 1,
+  "dataRowCount": 7,
+  "datetime": "2023-12-01 13:01:08",
+  "data": [
+    {
+      "code": "CCV1887286I",
+      "name": "Arun",
+      "companyName": "ECS",
+      "organization": {
+        "code": "",
+        "name": ""
       },
-      {
-        "code": "CCV37842665C",
-        "name": "Denim",
-        "companyName": "Denim Clothes",
-        "organization": {
-          "code": "ORG1AA532",
-          "name": "Kumbakonam"
-        },
-        "unPaidInvoiceAmount": 5120.00,
-        "paidWaitForAckAmount": 0,
-        "bookingAmount": 0,
-        "paymentTransactions": [
-          {
-            "code": "ECGINV127",
-            "transactionAmount": 600.00,
-            "tdsTax": 0.00,
-            "adjustmentAmount": 0.00,
-            "transactionDate": "2023-07-22 11:17:37",
-            "transactionMode": {
-              "code": "CASH",
-              "name": "Cash Payment"
-            },
-            "acknowledgeStatus": {
-              "code": "INITD",
-              "name": "Initiated"
-            },
-            "paymentHandledBy": {
-              "code": "URM5JC40347",
-              "name": "ismail"
-            }
+      "unPaidInvoiceAmount": 5826.00,
+      "paidWaitForAckAmount": 365.00,
+      "bookingAmount": 0,
+      "paymentTransactions": [
+        {
+          "code": "ECGINV033",
+          "transactionAmount": 3714.00,
+          "tdsTax": 0.00,
+          "adjustmentAmount": 0.00,
+          "transactionDate": "2022-07-04 20:31:36",
+          "transactionMode": {
+            "code": "UPI",
+            "name": "UPI Payment"
           },
-          {
-            "code": "ECGINV068",
-            "transactionAmount": 4520.00,
-            "tdsTax": 0.00,
-            "adjustmentAmount": 0.00,
-            "transactionDate": "2022-09-06 17:40:31",
-            "transactionMode": {
-              "code": "CASH",
-              "name": "Cash Payment"
-            },
-            "acknowledgeStatus": {
-              "code": "INITD",
-              "name": "Initiated"
-            },
-            "paymentHandledBy": {
-              "code": "URJ42D9889",
-              "name": "Dhena EzeeInfo"
-            }
+          "acknowledgeStatus": {
+            "code": "INITD",
+            "name": "Initiated"
+          },
+          "paymentHandledBy": {
+            "code": "URJ42D9889",
+            "name": "Dhena EzeeInfo"
           }
-        ]
+        },
+        {
+          "code": "ECGINV032",
+          "transactionAmount": 2112.00,
+          "tdsTax": 0.00,
+          "adjustmentAmount": 0.00,
+          "transactionDate": "2022-07-01 11:30:23",
+          "transactionMode": {
+            "code": "CASH",
+            "name": "Cash Payment"
+          },
+          "acknowledgeStatus": {
+            "code": "INITD",
+            "name": "Initiated"
+          },
+          "paymentHandledBy": {
+            "code": "URF156142",
+            "name": "Ramasamy"
+          }
+        },
+        {
+          "code": "ECGINV037",
+          "transactionAmount": 0.00,
+          "tdsTax": 0.00,
+          "adjustmentAmount": 0.00,
+          "transactionDate": "2022-07-12 13:22:57",
+          "transactionMode": {
+            "code": "CASH",
+            "name": "Cash Payment"
+          },
+          "acknowledgeStatus": {
+            "code": "INITD",
+            "name": "Initiated"
+          },
+          "paymentHandledBy": {
+            "code": "URL49D36252",
+            "name": "Thiyagarajan"
+          }
+        },
+        {
+          "code": "ECGINV010",
+          "transactionAmount": 2365.00,
+          "tdsTax": 0.00,
+          "adjustmentAmount": 0.00,
+          "transactionDate": "2022-03-18 15:06:31",
+          "transactionMode": {
+            "code": "NBK",
+            "name": "Netbanking"
+          },
+          "acknowledgeStatus": {
+            "code": "PAPAID",
+            "name": "Partial Payment Paid"
+          },
+          "paymentHandledBy": {
+            "code": "URJ42D9889",
+            "name": "Dhena EzeeInfo"
+          }
+        }
+      ],
+      "bookingDetails": []
+    },
+    {
+      "code": "CCV37842665C",
+      "name": "Denim",
+      "companyName": "Denim Clothes",
+      "organization": {
+        "code": "ORG1AA532",
+        "name": "Kumbakonam"
       },
-      {
-        "code": "CCV3B888C",
-        "name": "petrol pump",
-        "companyName": "testing",
-        "organization": {
-          "code": "",
-          "name": ""
-        },
-        "unPaidInvoiceAmount": 180.00,
-        "paidWaitForAckAmount": 0,
-        "bookingAmount": 0,
-        "paymentTransactions": [
-          {
-            "code": "ECGINV087",
-            "transactionAmount": 180.00,
-            "tdsTax": 0.00,
-            "adjustmentAmount": 0.00,
-            "transactionDate": "2023-02-06 16:57:25",
-            "transactionMode": {
-              "code": "NBK",
-              "name": "Netbanking"
-            },
-            "acknowledgeStatus": {
-              "code": "INITD",
-              "name": "Initiated"
-            },
-            "paymentHandledBy": {
-              "code": "URM5JC40347",
-              "name": "ismail"
-            }
+      "unPaidInvoiceAmount": 5120.00,
+      "paidWaitForAckAmount": 0,
+      "bookingAmount": 0,
+      "paymentTransactions": [
+        {
+          "code": "ECGINV127",
+          "transactionAmount": 600.00,
+          "tdsTax": 0.00,
+          "adjustmentAmount": 0.00,
+          "transactionDate": "2023-07-22 11:17:37",
+          "transactionMode": {
+            "code": "CASH",
+            "name": "Cash Payment"
+          },
+          "acknowledgeStatus": {
+            "code": "INITD",
+            "name": "Initiated"
+          },
+          "paymentHandledBy": {
+            "code": "URM5JC40347",
+            "name": "ismail"
           }
-        ]
+        },
+        {
+          "code": "ECGINV068",
+          "transactionAmount": 4520.00,
+          "tdsTax": 0.00,
+          "adjustmentAmount": 0.00,
+          "transactionDate": "2022-09-06 17:40:31",
+          "transactionMode": {
+            "code": "CASH",
+            "name": "Cash Payment"
+          },
+          "acknowledgeStatus": {
+            "code": "INITD",
+            "name": "Initiated"
+          },
+          "paymentHandledBy": {
+            "code": "URJ42D9889",
+            "name": "Dhena EzeeInfo"
+          }
+        }
+      ],
+      "bookingDetails": []
+    },
+    {
+      "code": "CCV3B888C",
+      "name": "petrol pump",
+      "companyName": "testing",
+      "organization": {
+        "code": "",
+        "name": ""
       },
-      {
-        "code": "CCV5B881791F",
-        "name": "Arun",
-        "companyName": "ECS pvt Ltd",
-        "organization": {
-          "code": "ORKCED42566",
-          "name": "Poonamallee"
-        },
-        "unPaidInvoiceAmount": 0,
-        "paidWaitForAckAmount": 220.00,
-        "bookingAmount": 0,
-        "paymentTransactions": [
-          {
-            "code": "ECGINV139",
-            "transactionAmount": 220.00,
-            "tdsTax": 0.00,
-            "adjustmentAmount": 0.00,
-            "transactionDate": "2023-09-01 11:24:08",
-            "transactionMode": {
-              "code": "CASH",
-              "name": "Cash Payment"
-            },
-            "acknowledgeStatus": {
-              "code": "PAPAID",
-              "name": "Partial Payment Paid"
-            },
-            "paymentHandledBy": {
-              "code": "URM5JC40347",
-              "name": "ismail"
-            }
+      "unPaidInvoiceAmount": 180.00,
+      "paidWaitForAckAmount": 0,
+      "bookingAmount": 0,
+      "paymentTransactions": [
+        {
+          "code": "ECGINV087",
+          "transactionAmount": 180.00,
+          "tdsTax": 0.00,
+          "adjustmentAmount": 0.00,
+          "transactionDate": "2023-02-06 16:57:25",
+          "transactionMode": {
+            "code": "NBK",
+            "name": "Netbanking"
+          },
+          "acknowledgeStatus": {
+            "code": "INITD",
+            "name": "Initiated"
+          },
+          "paymentHandledBy": {
+            "code": "URM5JC40347",
+            "name": "ismail"
           }
-        ]
+        }
+      ],
+      "bookingDetails": []
+    },
+    {
+      "code": "CCV5B881791F",
+      "name": "Arun",
+      "companyName": "ECS pvt Ltd",
+      "organization": {
+        "code": "ORG1AA532",
+        "name": "Kumbakonam"
       },
-      {
-        "code": "CCV168E304I",
-        "name": "Arul",
-        "companyName": "AtoZ Pvt ltd",
-        "organization": {
-          "code": "ORK8ID43784",
-          "name": "Bangalore Madiwala"
-        },
-        "unPaidInvoiceAmount": 15151.77,
-        "paidWaitForAckAmount": 0,
-        "bookingAmount": 3750.00,
-        "paymentTransactions": [
-          {
-            "code": "ATZINV109",
-            "transactionAmount": 4030.00,
-            "tdsTax": 0.00,
-            "adjustmentAmount": 0.00,
-            "transactionDate": "2023-03-08 19:43:57",
-            "transactionMode": {
-              "code": "CASH",
-              "name": "Cash Payment"
-            },
-            "acknowledgeStatus": {
-              "code": "INITD",
-              "name": "Initiated"
-            },
-            "paymentHandledBy": {
-              "code": "URM5JC40347",
-              "name": "ismail"
-            }
+      "unPaidInvoiceAmount": 0,
+      "paidWaitForAckAmount": 100.00,
+      "bookingAmount": 0,
+      "paymentTransactions": [
+        {
+          "code": "ECGINV139",
+          "transactionAmount": 220.00,
+          "tdsTax": 0.00,
+          "adjustmentAmount": 0.00,
+          "transactionDate": "2023-09-01 11:24:08",
+          "transactionMode": {
+            "code": "CASH",
+            "name": "Cash Payment"
           },
-          {
-            "code": "ECGINV031",
-            "transactionAmount": 110.00,
-            "tdsTax": 0.00,
-            "adjustmentAmount": 0.00,
-            "transactionDate": "2022-06-30 11:14:40",
-            "transactionMode": {
-              "code": "CASH",
-              "name": "Cash Payment"
-            },
-            "acknowledgeStatus": {
-              "code": "INITD",
-              "name": "Initiated"
-            },
-            "paymentHandledBy": {
-              "code": "URF156142",
-              "name": "Ramasamy"
-            }
+          "acknowledgeStatus": {
+            "code": "PAPAID",
+            "name": "Partial Payment Paid"
           },
-          {
-            "code": "22-23-BGL-0079",
-            "transactionAmount": 2420.00,
-            "tdsTax": 0.00,
-            "adjustmentAmount": 0.00,
-            "transactionDate": "2023-01-27 11:23:50",
-            "transactionMode": {
-              "code": "CASH",
-              "name": "Cash Payment"
-            },
-            "acknowledgeStatus": {
-              "code": "INITD",
-              "name": "Initiated"
-            },
-            "paymentHandledBy": {
-              "code": "URM5JC40347",
-              "name": "ismail"
-            }
-          },
-          {
-            "code": "ECGINV081",
-            "transactionAmount": 1215.00,
-            "tdsTax": 0.00,
-            "adjustmentAmount": 0.00,
-            "transactionDate": "2023-02-02 10:59:21",
-            "transactionMode": {
-              "code": "CASH",
-              "name": "Cash Payment"
-            },
-            "acknowledgeStatus": {
-              "code": "INITD",
-              "name": "Initiated"
-            },
-            "paymentHandledBy": {
-              "code": "URM5JC40347",
-              "name": "ismail"
-            }
-          },
-          {
-            "code": "ECGINV085",
-            "transactionAmount": 1800.00,
-            "tdsTax": 0.00,
-            "adjustmentAmount": 0.00,
-            "transactionDate": "2023-02-06 13:14:17",
-            "transactionMode": {
-              "code": "CASH",
-              "name": "Cash Payment"
-            },
-            "acknowledgeStatus": {
-              "code": "INITD",
-              "name": "Initiated"
-            },
-            "paymentHandledBy": {
-              "code": "URM5JC40347",
-              "name": "ismail"
-            }
-          },
-          {
-            "code": "ECGINV092",
-            "transactionAmount": 2918.32,
-            "tdsTax": 0.00,
-            "adjustmentAmount": 0.00,
-            "transactionDate": "2023-02-09 13:02:49",
-            "transactionMode": {
-              "code": "NBK",
-              "name": "Netbanking"
-            },
-            "acknowledgeStatus": {
-              "code": "INITD",
-              "name": "Initiated"
-            },
-            "paymentHandledBy": {
-              "code": "URM5JC40347",
-              "name": "ismail"
-            }
-          },
-          {
-            "code": "ECGINV094",
-            "transactionAmount": 1362.22,
-            "tdsTax": 0.00,
-            "adjustmentAmount": 0.00,
-            "transactionDate": "2023-02-09 13:03:46",
-            "transactionMode": {
-              "code": "CASH",
-              "name": "Cash Payment"
-            },
-            "acknowledgeStatus": {
-              "code": "INITD",
-              "name": "Initiated"
-            },
-            "paymentHandledBy": {
-              "code": "URM5JC40347",
-              "name": "ismail"
-            }
-          },
-          {
-            "code": "ECGINV096",
-            "transactionAmount": 1233.23,
-            "tdsTax": 0.00,
-            "adjustmentAmount": 0.00,
-            "transactionDate": "2023-02-09 13:06:45",
-            "transactionMode": {
-              "code": "NBK",
-              "name": "Netbanking"
-            },
-            "acknowledgeStatus": {
-              "code": "INITD",
-              "name": "Initiated"
-            },
-            "paymentHandledBy": {
-              "code": "URM5JC40347",
-              "name": "ismail"
-            }
-          },
-          {
-            "code": "ECGINV105",
-            "transactionAmount": 63.00,
-            "tdsTax": 0.00,
-            "adjustmentAmount": 0.00,
-            "transactionDate": "2023-02-09 14:48:11",
-            "transactionMode": {
-              "code": "CASH",
-              "name": "Cash Payment"
-            },
-            "acknowledgeStatus": {
-              "code": "INITD",
-              "name": "Initiated"
-            },
-            "paymentHandledBy": {
-              "code": "URM5JC40347",
-              "name": "ismail"
-            }
-          },
-          {
-            "code": "ECGINV039",
-            "transactionAmount": 0.00,
-            "tdsTax": 0.00,
-            "adjustmentAmount": 0.00,
-            "transactionDate": "2022-07-12 13:22:57",
-            "transactionMode": {
-              "code": "CASH",
-              "name": "Cash Payment"
-            },
-            "acknowledgeStatus": {
-              "code": "INITD",
-              "name": "Initiated"
-            },
-            "paymentHandledBy": {
-              "code": "URL49D36252",
-              "name": "Thiyagarajan"
-            }
+          "paymentHandledBy": {
+            "code": "URM5JC40347",
+            "name": "ismail"
           }
-        ]
+        }
+      ],
+      "bookingDetails": []
+    },
+    {
+      "code": "CCV168E304I",
+      "name": "Arul",
+      "companyName": "AtoZ Pvt ltd",
+      "organization": {
+        "code": "ORK8ID43784",
+        "name": "Bangalore Madiwala"
       },
-      {
-        "code": "CCV598E710J",
-        "name": "Maruthi",
-        "companyName": "Maruthi pvt ltd",
-        "organization": {
-          "code": "",
-          "name": ""
-        },
-        "unPaidInvoiceAmount": 1360.00,
-        "paidWaitForAckAmount": 0,
-        "bookingAmount": 0,
-        "paymentTransactions": [
-          {
-            "code": "ECGINV058",
-            "transactionAmount": 700.00,
-            "tdsTax": 0.00,
-            "adjustmentAmount": 0.00,
-            "transactionDate": "2022-08-02 12:56:36",
-            "transactionMode": {
-              "code": "CASH",
-              "name": "Cash Payment"
-            },
-            "acknowledgeStatus": {
-              "code": "INITD",
-              "name": "Initiated"
-            },
-            "paymentHandledBy": {
-              "code": "URM21B9397",
-              "name": "Sindhanai Selvan"
-            }
+      "unPaidInvoiceAmount": 15151.77,
+      "paidWaitForAckAmount": 0,
+      "bookingAmount": 3839.00,
+      "paymentTransactions": [
+        {
+          "code": "ATZINV109",
+          "transactionAmount": 4030.00,
+          "tdsTax": 0.00,
+          "adjustmentAmount": 0.00,
+          "transactionDate": "2023-03-08 19:43:57",
+          "transactionMode": {
+            "code": "CASH",
+            "name": "Cash Payment"
           },
-          {
-            "code": "ECGINV060",
-            "transactionAmount": 660.00,
-            "tdsTax": 0.00,
-            "adjustmentAmount": 0.00,
-            "transactionDate": "2022-08-02 13:11:29",
-            "transactionMode": {
-              "code": "CASH",
-              "name": "Cash Payment"
-            },
-            "acknowledgeStatus": {
-              "code": "INITD",
-              "name": "Initiated"
-            },
-            "paymentHandledBy": {
-              "code": "URM21B9397",
-              "name": "Sindhanai Selvan"
-            }
+          "acknowledgeStatus": {
+            "code": "INITD",
+            "name": "Initiated"
+          },
+          "paymentHandledBy": {
+            "code": "URM5JC40347",
+            "name": "ismail"
           }
-        ]
-      },
-      {
-        "code": "CCV488738E",
-        "name": "test",
-        "companyName": "test",
-        "organization": {
-          "code": "ORM7SF286",
-          "name": "ARUMANAI"
         },
-        "unPaidInvoiceAmount": 3919.00,
-        "paidWaitForAckAmount": 0,
-        "bookingAmount": 0,
-        "paymentTransactions": [
-          {
-            "code": "ECGINV107",
-            "transactionAmount": 3919.00,
-            "tdsTax": 0.00,
-            "adjustmentAmount": 0.00,
-            "transactionDate": "2023-02-09 15:12:41",
-            "transactionMode": {
-              "code": "CASH",
-              "name": "Cash Payment"
-            },
-            "acknowledgeStatus": {
-              "code": "INITD",
-              "name": "Initiated"
-            },
-            "paymentHandledBy": {
-              "code": "URM5JC40347",
-              "name": "ismail"
-            }
+        {
+          "code": "ECGINV031",
+          "transactionAmount": 110.00,
+          "tdsTax": 0.00,
+          "adjustmentAmount": 0.00,
+          "transactionDate": "2022-06-30 11:14:40",
+          "transactionMode": {
+            "code": "CASH",
+            "name": "Cash Payment"
+          },
+          "acknowledgeStatus": {
+            "code": "INITD",
+            "name": "Initiated"
+          },
+          "paymentHandledBy": {
+            "code": "URF156142",
+            "name": "Ramasamy"
           }
-        ]
-      }
-    ]
-  }
+        },
+        {
+          "code": "22-23-BGL-0079",
+          "transactionAmount": 2420.00,
+          "tdsTax": 0.00,
+          "adjustmentAmount": 0.00,
+          "transactionDate": "2023-01-27 11:23:50",
+          "transactionMode": {
+            "code": "CASH",
+            "name": "Cash Payment"
+          },
+          "acknowledgeStatus": {
+            "code": "INITD",
+            "name": "Initiated"
+          },
+          "paymentHandledBy": {
+            "code": "URM5JC40347",
+            "name": "ismail"
+          }
+        },
+        {
+          "code": "ECGINV081",
+          "transactionAmount": 1215.00,
+          "tdsTax": 0.00,
+          "adjustmentAmount": 0.00,
+          "transactionDate": "2023-02-02 10:59:21",
+          "transactionMode": {
+            "code": "CASH",
+            "name": "Cash Payment"
+          },
+          "acknowledgeStatus": {
+            "code": "INITD",
+            "name": "Initiated"
+          },
+          "paymentHandledBy": {
+            "code": "URM5JC40347",
+            "name": "ismail"
+          }
+        },
+        {
+          "code": "ECGINV085",
+          "transactionAmount": 1800.00,
+          "tdsTax": 0.00,
+          "adjustmentAmount": 0.00,
+          "transactionDate": "2023-02-06 13:14:17",
+          "transactionMode": {
+            "code": "CASH",
+            "name": "Cash Payment"
+          },
+          "acknowledgeStatus": {
+            "code": "INITD",
+            "name": "Initiated"
+          },
+          "paymentHandledBy": {
+            "code": "URM5JC40347",
+            "name": "ismail"
+          }
+        },
+        {
+          "code": "ECGINV092",
+          "transactionAmount": 2918.32,
+          "tdsTax": 0.00,
+          "adjustmentAmount": 0.00,
+          "transactionDate": "2023-02-09 13:02:49",
+          "transactionMode": {
+            "code": "NBK",
+            "name": "Netbanking"
+          },
+          "acknowledgeStatus": {
+            "code": "INITD",
+            "name": "Initiated"
+          },
+          "paymentHandledBy": {
+            "code": "URM5JC40347",
+            "name": "ismail"
+          }
+        },
+        {
+          "code": "ECGINV094",
+          "transactionAmount": 1362.22,
+          "tdsTax": 0.00,
+          "adjustmentAmount": 0.00,
+          "transactionDate": "2023-02-09 13:03:46",
+          "transactionMode": {
+            "code": "CASH",
+            "name": "Cash Payment"
+          },
+          "acknowledgeStatus": {
+            "code": "INITD",
+            "name": "Initiated"
+          },
+          "paymentHandledBy": {
+            "code": "URM5JC40347",
+            "name": "ismail"
+          }
+        },
+        {
+          "code": "ECGINV096",
+          "transactionAmount": 1233.23,
+          "tdsTax": 0.00,
+          "adjustmentAmount": 0.00,
+          "transactionDate": "2023-02-09 13:06:45",
+          "transactionMode": {
+            "code": "NBK",
+            "name": "Netbanking"
+          },
+          "acknowledgeStatus": {
+            "code": "INITD",
+            "name": "Initiated"
+          },
+          "paymentHandledBy": {
+            "code": "URM5JC40347",
+            "name": "ismail"
+          }
+        },
+        {
+          "code": "ECGINV105",
+          "transactionAmount": 63.00,
+          "tdsTax": 0.00,
+          "adjustmentAmount": 0.00,
+          "transactionDate": "2023-02-09 14:48:11",
+          "transactionMode": {
+            "code": "CASH",
+            "name": "Cash Payment"
+          },
+          "acknowledgeStatus": {
+            "code": "INITD",
+            "name": "Initiated"
+          },
+          "paymentHandledBy": {
+            "code": "URM5JC40347",
+            "name": "ismail"
+          }
+        },
+        {
+          "code": "ECGINV039",
+          "transactionAmount": 0.00,
+          "tdsTax": 0.00,
+          "adjustmentAmount": 0.00,
+          "transactionDate": "2022-07-12 13:22:57",
+          "transactionMode": {
+            "code": "CASH",
+            "name": "Cash Payment"
+          },
+          "acknowledgeStatus": {
+            "code": "INITD",
+            "name": "Initiated"
+          },
+          "paymentHandledBy": {
+            "code": "URL49D36252",
+            "name": "Thiyagarajan"
+          }
+        }
+      ],
+      "bookingDetails": [
+        {
+          "code": "ATZ028",
+          "itemCount": "1",
+          "serviceTax": "0.00",
+          "tdsTax": "0.00",
+          "totalAmount": "1200.00",
+          "totalHandlingAmount": "0.00",
+          "totalUnloadHandlingAmount": "0.00",
+          "pickupHandlingAmount": "0.00",
+          "deliveryHandlingAmount": "0.00",
+          "otherChargesAmount": "0.00",
+          "otherCharges": "hamali_charge:0.00,pass_charge:0.00,docket_charge:0.00,service_charge:0.00,pod_charge:0.00,demurrage_charge:0.00,insurance:0.00,round_off:0.00",
+          "fromStationName": "Bangalore",
+          "toStationName": "Trichy",
+          "fromOrganizationName": "Bangalore Madiwala",
+          "toOrganizationName": "TRICHY",
+          "fromCustomerName": "ARUL",
+          "toCustomerName": "TESTER",
+          "fromCustomerMobile": "8877662122",
+          "toCustomerMobile": "9500004280",
+          "cargoStatusCode": "CD",
+          "bookedAt": "2023-09-21 15:42:09",
+          "deliveredAt": "2023-09-21 15:42:43",
+          "itemName": "Bike ",
+          "user_first_name": "ismail"
+        },
+        {
+          "code": "ATZ029",
+          "itemCount": "1",
+          "serviceTax": "0.00",
+          "tdsTax": "0.00",
+          "totalAmount": "1200.00",
+          "totalHandlingAmount": "0.00",
+          "totalUnloadHandlingAmount": "40.00",
+          "pickupHandlingAmount": "0.00",
+          "deliveryHandlingAmount": "0.00",
+          "otherChargesAmount": "0.00",
+          "otherCharges": "hamali_charge:0.00,pass_charge:0.00,docket_charge:0.00,service_charge:0.00,pod_charge:0.00,demurrage_charge:0.00,insurance:0.00,round_off:0.00",
+          "fromStationName": "Bangalore",
+          "toStationName": "Trichy",
+          "fromOrganizationName": "Bangalore Madiwala",
+          "toOrganizationName": "TRICHY",
+          "fromCustomerName": "ARUL",
+          "toCustomerName": "THIYAGU",
+          "fromCustomerMobile": "8877662122",
+          "toCustomerMobile": "9876543103",
+          "cargoStatusCode": "CD",
+          "bookedAt": "2023-09-21 15:43:38",
+          "deliveredAt": "2023-09-21 15:54:37",
+          "itemName": "Bike ",
+          "user_first_name": "ismail"
+        },
+        {
+          "code": "ATZ030",
+          "itemCount": "1",
+          "serviceTax": "0.00",
+          "tdsTax": "0.00",
+          "totalAmount": "1200.00",
+          "totalHandlingAmount": "10.00",
+          "totalUnloadHandlingAmount": "50.00",
+          "pickupHandlingAmount": "20.00",
+          "deliveryHandlingAmount": "30.00",
+          "otherChargesAmount": "89.00",
+          "otherCharges": "hamali_charge:12.00,pass_charge:13.00,docket_charge:14.00,service_charge:15.00,pod_charge:15.00,demurrage_charge:0.00,insurance:20.00,round_off:0.00",
+          "fromStationName": "Bangalore",
+          "toStationName": "Trichy",
+          "fromOrganizationName": "Bangalore Madiwala",
+          "toOrganizationName": "TRICHY",
+          "fromCustomerName": "ARUL",
+          "toCustomerName": "TESTER",
+          "fromCustomerMobile": "8877662122",
+          "toCustomerMobile": "9500004280",
+          "cargoStatusCode": "CD",
+          "bookedAt": "2023-10-05 16:08:49",
+          "deliveredAt": "2023-10-05 16:11:03",
+          "itemName": "Bike ",
+          "user_first_name": "ismail"
+        }
+      ]
+    },
+    {
+      "code": "CCV598E710J",
+      "name": "Maruthi",
+      "companyName": "Maruthi pvt ltd",
+      "organization": {
+        "code": "",
+        "name": ""
+      },
+      "unPaidInvoiceAmount": 1360.00,
+      "paidWaitForAckAmount": 0,
+      "bookingAmount": 0,
+      "paymentTransactions": [
+        {
+          "code": "ECGINV058",
+          "transactionAmount": 700.00,
+          "tdsTax": 0.00,
+          "adjustmentAmount": 0.00,
+          "transactionDate": "2022-08-02 12:56:36",
+          "transactionMode": {
+            "code": "CASH",
+            "name": "Cash Payment"
+          },
+          "acknowledgeStatus": {
+            "code": "INITD",
+            "name": "Initiated"
+          },
+          "paymentHandledBy": {
+            "code": "URM21B9397",
+            "name": "Sindhanai Selvan"
+          }
+        },
+        {
+          "code": "ECGINV060",
+          "transactionAmount": 660.00,
+          "tdsTax": 0.00,
+          "adjustmentAmount": 0.00,
+          "transactionDate": "2022-08-02 13:11:29",
+          "transactionMode": {
+            "code": "CASH",
+            "name": "Cash Payment"
+          },
+          "acknowledgeStatus": {
+            "code": "INITD",
+            "name": "Initiated"
+          },
+          "paymentHandledBy": {
+            "code": "URM21B9397",
+            "name": "Sindhanai Selvan"
+          }
+        }
+      ],
+      "bookingDetails": []
+    },
+    {
+      "code": "CCV488738E",
+      "name": "test",
+      "companyName": "test",
+      "organization": {
+        "code": "ORM7SF286",
+        "name": "ARUMANAI"
+      },
+      "unPaidInvoiceAmount": 3919.00,
+      "paidWaitForAckAmount": 0,
+      "bookingAmount": 0,
+      "paymentTransactions": [
+        {
+          "code": "ECGINV107",
+          "transactionAmount": 3919.00,
+          "tdsTax": 0.00,
+          "adjustmentAmount": 0.00,
+          "transactionDate": "2023-02-09 15:12:41",
+          "transactionMode": {
+            "code": "CASH",
+            "name": "Cash Payment"
+          },
+          "acknowledgeStatus": {
+            "code": "INITD",
+            "name": "Initiated"
+          },
+          "paymentHandledBy": {
+            "code": "URM5JC40347",
+            "name": "ismail"
+          }
+        }
+      ],
+      "bookingDetails": []
+    }
+  ]
+}
