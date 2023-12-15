@@ -1,0 +1,1 @@
+https://raw.githubusercontent.com/haridasezeeinfo/jsons/main/{{filename.ext}}

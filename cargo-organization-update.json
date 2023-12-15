@@ -1,0 +1,538 @@
+{
+    "activeFlag": 1,
+    "organization": {
+      "code": "ORM1RKE7",
+      "name": "Bangalore",
+      "activeFlag": 1,
+      "address1": "Bangaloree",
+      "address2": "",
+      "contact": "9876543210",
+      "station": {
+        "code": "STF3OEX206",
+        "name": "Bangalore",
+        "activeFlag": 1
+      },
+      "userCount": 2,
+      "shortCode": "BNG",
+      "hubFlag": true,
+      "deviationPercentage": 0,
+      "transitCloseMinutes": 0
+    },
+    "bookingDeliveryFlag": "11",
+    "deliveryBranchList": [
+      {
+        "code": "ORN1OIH27",
+        "name": "CHENNAI - WALLTAX",
+        "activeFlag": 1,
+        "address1": "54,Amman Kovil Street",
+        "address2": "Chennai Wall tax",
+        "contact": "9876213232",
+        "station": {
+          "code": "STF17D51",
+          "name": "Chennai",
+          "activeFlag": 1
+        },
+        "userCount": 0,
+        "shortCode": "CHW",
+        "hubFlag": true,
+        "deviationPercentage": 0,
+        "transitCloseMinutes": 0
+      },
+      {
+        "code": "ORN3RJS28",
+        "name": "Coimbatore",
+        "activeFlag": 1,
+        "address1": "Test",
+        "address2": "test",
+        "contact": "9876556789",
+        "station": {
+          "code": "STF1TI93",
+          "name": "Coimbatore",
+          "activeFlag": 1
+        },
+        "userCount": 0,
+        "shortCode": "CBE",
+        "hubFlag": true,
+        "deviationPercentage": 0,
+        "transitCloseMinutes": 0
+      },
+      {
+        "code": "ORN659P36",
+        "name": "JD",
+        "activeFlag": 1,
+        "address1": "aaaaaaaa",
+        "address2": "",
+        "contact": "9074360836",
+        "station": {
+          "code": "STF17F54",
+          "name": "Salem",
+          "activeFlag": 1
+        },
+        "userCount": 0,
+        "hubFlag": true,
+        "deviationPercentage": 0,
+        "transitCloseMinutes": 0
+      },
+      {
+        "code": "ORNA1A450",
+        "name": "Karungal",
+        "activeFlag": 1,
+        "address1": "karungal",
+        "address2": "",
+        "contact": "9840866336",
+        "station": {
+          "code": "STF5TBQ383",
+          "name": "Karungal",
+          "activeFlag": 1
+        },
+        "userCount": 0,
+        "hubFlag": true,
+        "deviationPercentage": 0,
+        "transitCloseMinutes": 0
+      },
+      {
+        "code": "OGF15670",
+        "name": "KOYEAMBEDU",
+        "activeFlag": 1,
+        "address1": "Koyambedu",
+        "address2": "Koyambedu",
+        "contact": "9035902444, 9164841455",
+        "station": {
+          "code": "STF17D51",
+          "name": "Chennai",
+          "activeFlag": 1
+        },
+        "userCount": 0,
+        "shortCode": "KOY",
+        "hubFlag": true,
+        "deviationPercentage": 0,
+        "transitCloseMinutes": 0
+      },
+      {
+        "code": "ORL8JK42561",
+        "name": "Madurai 1",
+        "activeFlag": 1,
+        "address1": "Madurai",
+        "address2": "",
+        "contact": "9940379373",
+        "station": {
+          "code": "STF17D52",
+          "name": "Madurai",
+          "activeFlag": 1
+        },
+        "userCount": 0,
+        "shortCode": "MDU",
+        "hubFlag": true,
+        "deviationPercentage": 0,
+        "transitCloseMinutes": 0
+      },
+      {
+        "code": "ORL8Q8Q3",
+        "name": "Madurai 2",
+        "activeFlag": 1,
+        "address1": "RKG Travels, Platform No 05,Shop No 41,",
+        "address2": " Private Omni Bus Stand, Koyembedu , Chennai",
+        "contact": "9876543211,9432394312",
+        "station": {
+          "code": "STF17D52",
+          "name": "Madurai",
+          "activeFlag": 1
+        },
+        "userCount": 0,
+        "shortCode": "MDU2",
+        "hubFlag": true,
+        "deviationPercentage": 0,
+        "transitCloseMinutes": 0
+      },
+      {
+        "code": "ORN4RJ834",
+        "name": "Mannargudi",
+        "activeFlag": 1,
+        "address1": "test",
+        "address2": "test",
+        "contact": "9500004561",
+        "station": {
+          "code": "STF3OEN182",
+          "name": "Mannargudi",
+          "activeFlag": 1
+        },
+        "userCount": 0,
+        "shortCode": "MANN",
+        "hubFlag": true,
+        "deviationPercentage": 0,
+        "transitCloseMinutes": 0
+      },
+      {
+        "code": "ORLATG401",
+        "name": "Nagercoil",
+        "activeFlag": 1,
+        "address1": "Nagercoil",
+        "address2": "Bus Stop",
+        "contact": "9874645236",
+        "station": {
+          "code": "STF1CJ63",
+          "name": "Nagercoil",
+          "activeFlag": 1
+        },
+        "userCount": 0,
+        "shortCode": "NGL",
+        "hubFlag": true,
+        "deviationPercentage": 0,
+        "transitCloseMinutes": 0
+      },
+      {
+        "code": "ORL8Q801",
+        "name": "Namakkal",
+        "activeFlag": 1,
+        "address1": "Namakkal",
+        "address2": "",
+        "contact": "9876543211",
+        "station": {
+          "code": "STF17D53",
+          "name": "Namakkal",
+          "activeFlag": 1
+        },
+        "userCount": 0,
+        "shortCode": "NKL",
+        "hubFlag": true,
+        "deviationPercentage": 0,
+        "transitCloseMinutes": 0
+      },
+      {
+        "code": "ORM8JJ614",
+        "name": "Perungalathur",
+        "activeFlag": 1,
+        "address1": "bus stop",
+        "address2": "perungalathur",
+        "contact": "9500004561",
+        "station": {
+          "code": "STF17D51",
+          "name": "Chennai",
+          "activeFlag": 1
+        },
+        "userCount": 0,
+        "shortCode": "PER",
+        "hubFlag": true,
+        "deviationPercentage": 0,
+        "transitCloseMinutes": 0
+      },
+      {
+        "code": "ORM1RKE6",
+        "name": "Pondy",
+        "activeFlag": 1,
+        "address1": "pondy",
+        "address2": "",
+        "contact": "9876543210",
+        "station": {
+          "code": "STF2CD122",
+          "name": "Pondicherry",
+          "activeFlag": 1
+        },
+        "userCount": 0,
+        "shortCode": "PDY",
+        "hubFlag": true,
+        "deviationPercentage": 0,
+        "transitCloseMinutes": 0
+      },
+      {
+        "code": "ORM1KKK2",
+        "name": "TRICHY",
+        "activeFlag": 1,
+        "address1": "49,PALLA STREET, KALAYAMPOONDI village, uthirumearur t.k",
+        "address2": "",
+        "contact": "09655005152",
+        "station": {
+          "code": "STF1GI77",
+          "name": "Trichy",
+          "activeFlag": 1
+        },
+        "userCount": 0,
+        "shortCode": "TRY",
+        "hubFlag": true,
+        "deviationPercentage": 0,
+        "transitCloseMinutes": 0
+      },
+      {
+        "code": "ORL8KI4195",
+        "name": "TAMBARAM",
+        "activeFlag": 1,
+        "address1": "Tambaram",
+        "address2": "Tambaram",
+        "contact": "9876543211",
+        "station": {
+          "code": "STF17D51",
+          "name": "Chennai",
+          "activeFlag": 1
+        },
+        "userCount": 0,
+        "shortCode": "TAM",
+        "hubFlag": true,
+        "deviationPercentage": 0,
+        "transitCloseMinutes": 0
+      },
+      {
+        "code": "ORNA6E5555",
+        "name": "Tirunelveli",
+        "activeFlag": 1,
+        "address1": "Tirunelveli",
+        "address2": "",
+        "contact": "9876543210",
+        "station": {
+          "code": "STF2CD128",
+          "name": "Tirunelveli",
+          "activeFlag": 1
+        },
+        "userCount": 0,
+        "hubFlag": true,
+        "deviationPercentage": 0,
+        "transitCloseMinutes": 0
+      },
+      {
+        "code": "ORNA195748",
+        "name": "Trivandaram",
+        "activeFlag": 1,
+        "address1": "trivandaram",
+        "address2": "",
+        "contact": "9840866336",
+        "station": {
+          "code": "STF2CD129",
+          "name": "Trivandrum",
+          "activeFlag": 1
+        },
+        "userCount": 0,
+        "hubFlag": true,
+        "deviationPercentage": 0,
+        "transitCloseMinutes": 0
+      },
+      {
+        "code": "ORL8Q812",
+        "name": "Ulundurpet",
+        "activeFlag": 1,
+        "address1": "Ulundurpet",
+        "address2": "",
+        "contact": "9876543211",
+        "station": {
+          "code": "STGBHI6151",
+          "name": "Ulundurpet",
+          "activeFlag": 1
+        },
+        "userCount": 0,
+        "shortCode": "ULR",
+        "hubFlag": true,
+        "deviationPercentage": 0,
+        "transitCloseMinutes": 0
+      },
+      {
+        "code": "ORNA6E4552",
+        "name": "Villupuram",
+        "activeFlag": 1,
+        "address1": "villupuram",
+        "address2": "",
+        "contact": "98765432109",
+        "station": {
+          "code": "STF2CD132",
+          "name": "Villupuram",
+          "activeFlag": 1
+        },
+        "userCount": 0,
+        "hubFlag": true,
+        "deviationPercentage": 0,
+        "transitCloseMinutes": 0
+      },
+      {
+        "code": "ORM1VH4710",
+        "name": "kalayarkoil",
+        "activeFlag": 1,
+        "address1": "main road",
+        "address2": "kalayarkoil",
+        "contact": "9500004561",
+        "station": {
+          "code": "STF7M7I414",
+          "name": "Kalayarkoil",
+          "activeFlag": 1
+        },
+        "userCount": 0,
+        "shortCode": "KAL",
+        "hubFlag": true,
+        "deviationPercentage": 0,
+        "transitCloseMinutes": 0
+      },
+      {
+        "code": "ORM84H4713",
+        "name": "kanchipuram",
+        "activeFlag": 1,
+        "address1": "Nehru st, Nethaji  Nagar",
+        "address2": "Kanchipuram East",
+        "contact": "9988776655",
+        "station": {
+          "code": "STFCKC5430",
+          "name": "Kanchipuram",
+          "activeFlag": 1
+        },
+        "userCount": 0,
+        "shortCode": "KNC",
+        "hubFlag": true,
+        "deviationPercentage": 0,
+        "transitCloseMinutes": 0
+      },
+      {
+        "code": "ORM4JC5711",
+        "name": "kanchipuram head office",
+        "activeFlag": 1,
+        "address1": "main road'",
+        "address2": "kanchipuram",
+        "contact": "9500002891",
+        "station": {
+          "code": "STFCKC5430",
+          "name": "Kanchipuram",
+          "activeFlag": 1
+        },
+        "userCount": 0,
+        "shortCode": "KAN",
+        "hubFlag": true,
+        "deviationPercentage": 0,
+        "transitCloseMinutes": 0
+      },
+      {
+        "code": "ORNA1A551",
+        "name": "kolachel",
+        "activeFlag": 1,
+        "address1": "kolachel",
+        "address2": "",
+        "contact": "9840866336",
+        "station": {
+          "code": "STG2PF4039",
+          "name": "Kolachel",
+          "activeFlag": 1
+        },
+        "userCount": 0,
+        "hubFlag": true,
+        "deviationPercentage": 0,
+        "transitCloseMinutes": 0
+      },
+      {
+        "code": "ORNA195749",
+        "name": "kulasekaram",
+        "activeFlag": 1,
+        "address1": "kulasekaram",
+        "address2": "",
+        "contact": "98765432109",
+        "station": {
+          "code": "STF2CD110",
+          "name": "Kulasekaram",
+          "activeFlag": 1
+        },
+        "userCount": 0,
+        "hubFlag": true,
+        "deviationPercentage": 0,
+        "transitCloseMinutes": 0
+      },
+      {
+        "code": "ORM1MCK3",
+        "name": "kumbakonam",
+        "activeFlag": 1,
+        "address1": "Pushpa Theatre Bus Stop;Supreme Mobile Near. SKM Siddha  upstairs.Tirupursdgaswer",
+        "address2": "kumbakonam",
+        "contact": "9500004949",
+        "station": {
+          "code": "STF3OEL178",
+          "name": "Kumbakonam",
+          "activeFlag": 1
+        },
+        "userCount": 0,
+        "shortCode": "KUM",
+        "hubFlag": true,
+        "deviationPercentage": 0,
+        "transitCloseMinutes": 0
+      },
+      {
+        "code": "ORNA6E4653",
+        "name": "sattur",
+        "activeFlag": 1,
+        "address1": "kovilpatti",
+        "address2": "",
+        "contact": "9876543210",
+        "station": {
+          "code": "STF1GI81",
+          "name": "Kovilpatti",
+          "activeFlag": 1
+        },
+        "userCount": 0,
+        "hubFlag": true,
+        "deviationPercentage": 0,
+        "transitCloseMinutes": 0
+      },
+      {
+        "code": "ORM1VA538",
+        "name": "thanjore",
+        "activeFlag": 1,
+        "address1": "main road",
+        "address2": "tanjore",
+        "contact": "9500001234",
+        "station": {
+          "code": "STF3OER192",
+          "name": "Tanjore",
+          "activeFlag": 1
+        },
+        "userCount": 0,
+        "shortCode": "TAN",
+        "hubFlag": true,
+        "deviationPercentage": 0,
+        "transitCloseMinutes": 0
+      },
+      {
+        "code": "ORNA6E5454",
+        "name": "virudhinagar",
+        "activeFlag": 1,
+        "address1": "virudhinagar",
+        "address2": "",
+        "contact": "9876543210",
+        "station": {
+          "code": "STF1GI78",
+          "name": "Virudhunagar",
+          "activeFlag": 1
+        },
+        "userCount": 0,
+        "hubFlag": true,
+        "deviationPercentage": 0,
+        "transitCloseMinutes": 0
+      }
+    ],
+    "hubBranches": [
+      {
+        "code": "ORNA1A450"
+      }
+    ],
+    "paymentTypeList": [
+      {
+        "code": "PAD",
+        "name": "Paid",
+        "activeFlag": 1
+      },
+      {
+        "code": "TOP",
+        "name": "To Pay",
+        "activeFlag": 1
+      },
+      {
+        "code": "INP",
+        "name": "On Account",
+        "activeFlag": 1
+      },
+      {
+        "code": "OATP",
+        "name": "On Account To Pay",
+        "activeFlag": 1
+      },
+      {
+        "code": "WTOP",
+        "name": "Way To Pay",
+        "activeFlag": 1
+      },
+      {
+        "code": "FS",
+        "name": "Free Service",
+        "activeFlag": 1
+      }
+    ]
+  }
