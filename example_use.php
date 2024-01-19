@@ -4,14 +4,18 @@
 require_once 'Libraries/Request.php';
 
 use Libraries\Request;
-
-$url="https://jsonplaceholder.typicode.com/todos/1";
-// $url="https://raw.githubusercontent.com/haridasezeeinfo/jsons/main/balancesheet.json";
+$result=[];
+$url="https://raw.githubusercontent.com/haridasezeeinfo/jsons/main/sample.json";
 try {
-    
     $getResponse = Request::get($url);
-    echo "GET Response: " . $getResponse;
-
+    $result=$getResponse;
 } catch (\Exception $e) {
-    echo "Error: " . $e->getMessage() . PHP_EOL;
+    // echo "Error: " . $e->getMessage() . PHP_EOL;
+    $result=array(
+        'status' => 0,
+        'dataRowCount'=>0,
+        'datetime'=>null,
+        'data'=>array('error'=>$e->getMessage())
+    );
 }
+print_r($result);
