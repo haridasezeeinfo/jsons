@@ -1,0 +1,2704 @@
+[
+  {
+    "cargo_code": "SLRA-01749",
+    "cargo_item_name": "Bundle",
+    "cargo_item_description": "Clothes",
+    "cargo_status_code": "CL",
+    "payment_status_code": "TOP",
+    "booked_at": "2024-01-29 16:13:16",
+    "delivered_at": null,
+    "total_item_count": 1,
+    "total_unit_value": 0,
+    "total_actual_unit_value": 0,
+    "transaction_amount": 0,
+    "commission_amount": 0,
+    "pickup_handling_amount": 0,
+    "delivery_handling_amount": 0,
+    "hamali_charge": 0,
+    "pass_charge": 0,
+    "docket_charge": 10,
+    "pod_charge": 0,
+    "demurrage_charge": 0,
+    "connecting_charge": 0,
+    "round_off_value": 0,
+    "total_amount": 1000,
+    "total_handling_amount": 20,
+    "total_unload_handling_amount": 0,
+    "total_amount_paid": 0,
+    "service_tax": 50,
+    "service_charge": 0,
+    "transaction_mode_code": null,
+    "from_station_code": "STF17D51",
+    "to_station_code": "STF17D52",
+    "from_station_short_code": "01",
+    "to_station_short_code": "MDU",
+    "from_station_name": "Chennai",
+    "to_station_name": "Madurai",
+    "transit_organization_code": "ORL8Q8Q3",
+    "transit_organization_short_code": "MAD",
+    "other_charges": "pickup_handling_amount:0.00,delivery_handling_amount:0.00,hamali_charge:0.00,pass_charge:0.00,docket_charge:10.00,service_charge:0.00,service_tax:50.00,total_handling_amount:20.00,total_unload_handling_amount:0.00,pod_charge:0.00,demurrage_charge:0.00,connecting_charges:0.00,round_off:0.00",
+    "other_charges_amount": 80,
+    "transit_organization_name": "Madurai 2",
+    "transit_station_code": "STF17D52",
+    "transit_station_name": "Madurai",
+    "user_code": "URM42GO15",
+    "user_first_name": "rajakannan",
+    "from_customer_name": "TESTER",
+    "to_customer_name": "TESTER",
+    "from_customer_mobile": "9500004648",
+    "to_customer_mobile": "9500004648",
+    "from_organization_code": "OGF15670",
+    "from_organization_name": "KOYEAMBEDU",
+    "from_organization_short_code": "KOY",
+    "to_organization_code": "ORL8Q8Q3",
+    "to_organization_name": "Madurai 2",
+    "to_organization_short_code": "MAD",
+    "transit_from_organization_code": "OGF15670",
+    "transit_from_organization_short_code": "KOY",
+    "transit_from_organization_name": "KOYEAMBEDU",
+    "transit_to_organization_code": "ORL8Q8Q3",
+    "transit_to_organization_short_code": "MAD",
+    "transit_to_organization_name": "Madurai 2",
+    "transit_from_station_code": "STF17D51",
+    "transit_from_station_short_code": "01",
+    "transit_from_station_name": "Chennai",
+    "transit_to_station_code": "STF17D52",
+    "transit_to_station_short_code": "MDU",
+    "transit_to_station_name": "Madurai",
+    "eway_bill_no": null,
+    "start_odometer": 0,
+    "end_odometer": 0,
+    "pickup_type_code": "DYSE",
+    "delivery_type_code": "DYSE",
+    "door_delivery_remarks_code": null,
+    "door_delivery_remarks": null,
+    "door_delivery_handover_person": null,
+    "remarks_count": 0,
+    "booking_remarks": null,
+    "unloading_remarks": null,
+    "payment_settlement_flag": 0,
+    "additional_status_code": null,
+    "load_type": "RGL",
+    "private_mark_number": "",
+    "transit_details_type": "DFLT",
+    "cargo_type": "BO",
+    "item_details": "CIO1TGDG1014,Bundle-1",
+    "cargoData": []
+  },
+  {
+    "cargo_code": "SLRA-01756",
+    "cargo_item_name": "Bag",
+    "cargo_item_description": "Tester",
+    "cargo_status_code": "CL",
+    "payment_status_code": "PAD",
+    "booked_at": "2024-01-30 10:32:06",
+    "delivered_at": null,
+    "total_item_count": 1,
+    "total_unit_value": 0,
+    "total_actual_unit_value": 0,
+    "transaction_amount": 135,
+    "commission_amount": 10,
+    "pickup_handling_amount": 0,
+    "delivery_handling_amount": 0,
+    "hamali_charge": 0,
+    "pass_charge": 0,
+    "docket_charge": 10,
+    "pod_charge": 0,
+    "demurrage_charge": 0,
+    "connecting_charge": 0,
+    "round_off_value": 0,
+    "total_amount": 100,
+    "total_handling_amount": 20,
+    "total_unload_handling_amount": 0,
+    "total_amount_paid": 135,
+    "service_tax": 5,
+    "service_charge": 0,
+    "transaction_mode_code": "CASH",
+    "from_station_code": "STF17D51",
+    "to_station_code": "STF17D52",
+    "from_station_short_code": "01",
+    "to_station_short_code": "MDU",
+    "from_station_name": "Chennai",
+    "to_station_name": "Madurai",
+    "transit_organization_code": "ORL8Q8Q3",
+    "transit_organization_short_code": "MAD",
+    "other_charges": "pickup_handling_amount:0.00,delivery_handling_amount:0.00,hamali_charge:0.00,pass_charge:0.00,docket_charge:10.00,service_charge:0.00,service_tax:5.00,total_handling_amount:20.00,total_unload_handling_amount:0.00,pod_charge:0.00,demurrage_charge:0.00,connecting_charges:0.00,round_off:0.00",
+    "other_charges_amount": 35,
+    "transit_organization_name": "Madurai 2",
+    "transit_station_code": "STF17D52",
+    "transit_station_name": "Madurai",
+    "user_code": "URM42GO15",
+    "user_first_name": "rajakannan",
+    "from_customer_name": "OFFICE",
+    "to_customer_name": "NELSON",
+    "from_customer_mobile": "9789646633",
+    "to_customer_mobile": "9500001210",
+    "from_organization_code": "OGF15670",
+    "from_organization_name": "KOYEAMBEDU",
+    "from_organization_short_code": "KOY",
+    "to_organization_code": "ORL8Q8Q3",
+    "to_organization_name": "Madurai 2",
+    "to_organization_short_code": "MAD",
+    "transit_from_organization_code": "OGF15670",
+    "transit_from_organization_short_code": "KOY",
+    "transit_from_organization_name": "KOYEAMBEDU",
+    "transit_to_organization_code": "ORL8Q8Q3",
+    "transit_to_organization_short_code": "MAD",
+    "transit_to_organization_name": "Madurai 2",
+    "transit_from_station_code": "STF17D51",
+    "transit_from_station_short_code": "01",
+    "transit_from_station_name": "Chennai",
+    "transit_to_station_code": "STF17D52",
+    "transit_to_station_short_code": "MDU",
+    "transit_to_station_name": "Madurai",
+    "eway_bill_no": null,
+    "start_odometer": 0,
+    "end_odometer": 0,
+    "pickup_type_code": "DYSE",
+    "delivery_type_code": "DYSE",
+    "door_delivery_remarks_code": null,
+    "door_delivery_remarks": null,
+    "door_delivery_handover_person": null,
+    "remarks_count": 0,
+    "booking_remarks": null,
+    "unloading_remarks": null,
+    "payment_settlement_flag": 1,
+    "additional_status_code": null,
+    "load_type": "RGL",
+    "private_mark_number": "",
+    "transit_details_type": "DFLT",
+    "cargo_type": "BO",
+    "item_details": "CIO1UAW61086,Bag-1",
+    "cargoData": []
+  },
+  {
+    "cargo_code": "SLRA-01758-A",
+    "cargo_item_name": "Bag",
+    "cargo_item_description": "Tester",
+    "cargo_status_code": "CL",
+    "payment_status_code": "PAD",
+    "booked_at": "2024-01-30 10:32:45",
+    "delivered_at": null,
+    "total_item_count": 1,
+    "total_unit_value": 0,
+    "total_actual_unit_value": 0,
+    "transaction_amount": 0,
+    "commission_amount": 0,
+    "pickup_handling_amount": 0,
+    "delivery_handling_amount": 0,
+    "hamali_charge": 0,
+    "pass_charge": 0,
+    "docket_charge": 0,
+    "pod_charge": 0,
+    "demurrage_charge": 0,
+    "connecting_charge": 0,
+    "round_off_value": 0,
+    "total_amount": 0,
+    "total_handling_amount": 0,
+    "total_unload_handling_amount": 0,
+    "total_amount_paid": 0,
+    "service_tax": 0,
+    "service_charge": 0,
+    "transaction_mode_code": null,
+    "from_station_code": "STF17D51",
+    "to_station_code": "STF17D52",
+    "from_station_short_code": "01",
+    "to_station_short_code": "MDU",
+    "from_station_name": "Chennai",
+    "to_station_name": "Madurai",
+    "transit_organization_code": "ORL8Q8Q3",
+    "transit_organization_short_code": "MAD",
+    "other_charges": "pickup_handling_amount:0.00,delivery_handling_amount:0.00,hamali_charge:0.00,pass_charge:0.00,docket_charge:0.00,service_charge:0.00,service_tax:0.00,total_handling_amount:0.00,total_unload_handling_amount:0.00,pod_charge:0.00,demurrage_charge:0.00,connecting_charges:0.00,round_off:0.00",
+    "other_charges_amount": 0,
+    "transit_organization_name": "Madurai 2",
+    "transit_station_code": "STF17D52",
+    "transit_station_name": "Madurai",
+    "user_code": "URM42GO15",
+    "user_first_name": "rajakannan",
+    "from_customer_name": "NELSON",
+    "to_customer_name": "GC",
+    "from_customer_mobile": "9500001210",
+    "to_customer_mobile": "9870695847",
+    "from_organization_code": "OGF15670",
+    "from_organization_name": "KOYEAMBEDU",
+    "from_organization_short_code": "KOY",
+    "to_organization_code": "ORL8Q8Q3",
+    "to_organization_name": "Madurai 2",
+    "to_organization_short_code": "MAD",
+    "transit_from_organization_code": "OGF15670",
+    "transit_from_organization_short_code": "KOY",
+    "transit_from_organization_name": "KOYEAMBEDU",
+    "transit_to_organization_code": "ORL8Q8Q3",
+    "transit_to_organization_short_code": "MAD",
+    "transit_to_organization_name": "Madurai 2",
+    "transit_from_station_code": "STF17D51",
+    "transit_from_station_short_code": "01",
+    "transit_from_station_name": "Chennai",
+    "transit_to_station_code": "STF17D52",
+    "transit_to_station_short_code": "MDU",
+    "transit_to_station_name": "Madurai",
+    "eway_bill_no": null,
+    "start_odometer": 0,
+    "end_odometer": 0,
+    "pickup_type_code": "DYSE",
+    "delivery_type_code": "DYSE",
+    "door_delivery_remarks_code": null,
+    "door_delivery_remarks": null,
+    "door_delivery_handover_person": null,
+    "remarks_count": 0,
+    "booking_remarks": null,
+    "unloading_remarks": null,
+    "payment_settlement_flag": 1,
+    "additional_status_code": null,
+    "load_type": "RGL",
+    "private_mark_number": "",
+    "transit_details_type": "DFLT",
+    "cargo_type": "PBO",
+    "item_details": "CIO1UC59361195,Bag-1",
+    "cargoData": {
+      "code": "SLRA-01758-A",
+      "activeFlag": 1,
+      "fromStation": {
+        "code": "STF17D51",
+        "name": "Chennai",
+        "activeFlag": 1,
+        "shortCode": "01"
+      },
+      "toStation": {
+        "code": "STF17D52",
+        "name": "Madurai",
+        "activeFlag": 1,
+        "shortCode": "MDU"
+      },
+      "fromOrganization": {
+        "code": "OGF15670",
+        "name": "KOYEAMBEDU",
+        "activeFlag": 1,
+        "address1": "Koyambedu",
+        "address2": "Koyambedu",
+        "contact": "9035902444, 9164841455",
+        "station": {
+          "code": "STF17D51",
+          "activeFlag": 1
+        },
+        "userCount": 0,
+        "shortCode": "KOY",
+        "hubFlag": true,
+        "deviationPercentage": 0,
+        "transitCloseMinutes": 0,
+        "transitHubBranchFlag": false
+      },
+      "toOrganization": {
+        "code": "ORL8Q8Q3",
+        "name": "Madurai 2",
+        "activeFlag": 1,
+        "address1": "RKG Travels, Platform No 05,Shop No 41,",
+        "address2": " Private Omni Bus Stand, Koyembedu , Chennai",
+        "contact": "9876543211,9432394312",
+        "station": {
+          "code": "STF17D52",
+          "activeFlag": 1
+        },
+        "userCount": 0,
+        "shortCode": "MAD",
+        "hubFlag": true,
+        "deviationPercentage": 0,
+        "transitCloseMinutes": 1200,
+        "transitHubBranchFlag": false
+      },
+      "transitOrganization": {
+        "code": "ORL8Q8Q3",
+        "name": "Madurai 2",
+        "activeFlag": 1,
+        "station": {
+          "code": "STF17D52",
+          "name": "Madurai",
+          "activeFlag": 1
+        },
+        "userCount": 0,
+        "hubFlag": false,
+        "deviationPercentage": 0,
+        "transitCloseMinutes": 1200,
+        "transitHubBranchFlag": false
+      },
+      "fromCustomer": {
+        "code": "CUM8PBN602",
+        "name": "NELSON",
+        "activeFlag": 1,
+        "mobileNumber": "9500001210"
+      },
+      "toCustomer": {
+        "code": "CUM8NH8589",
+        "name": "GC",
+        "activeFlag": 1,
+        "mobileNumber": "9870695847"
+      },
+      "fromCustomerAddress": {
+        "activeFlag": 1,
+        "defaultFlag": 0
+      },
+      "toCustomerAddress": {
+        "activeFlag": 1,
+        "defaultFlag": 0
+      },
+      "itemDetails": [
+        {
+          "code": "CIO1UC59361195",
+          "activeFlag": 1,
+          "cargoItem": {
+            "code": "CIM2AE387",
+            "name": "Bag",
+            "activeFlag": 1,
+            "docRequriedFlag": 0,
+            "gstExemptedFlag": false,
+            "description": [
+              "Tester"
+            ]
+          },
+          "handlingChargeAmount": 0,
+          "unloadingChargeAmount": 0,
+          "fare": 0,
+          "unit": {
+            "code": "NPPKG",
+            "name": "No Price per Kg",
+            "activeFlag": 1
+          },
+          "itemCount": 1,
+          "unitValue": 1,
+          "actualUnitValue": 0,
+          "serviceTax": 0,
+          "tax": {
+            "activeFlag": 1
+          },
+          "itemCountPortion": [
+            "2"
+          ]
+        }
+      ],
+      "paymentType": {
+        "code": "PAD",
+        "name": "Paid",
+        "activeFlag": 1
+      },
+      "deliveryType": {
+        "code": "DYSE",
+        "name": "Self Pickup",
+        "activeFlag": 1
+      },
+      "pickupType": {
+        "code": "DYSE",
+        "name": "Self Pickup",
+        "activeFlag": 1
+      },
+      "cargoType": {
+        "code": "PBO",
+        "name": "Partial Booking",
+        "activeFlag": 1
+      },
+      "paymentAmount": 0,
+      "deliveryHandlingAmount": 0,
+      "pickupHandlingAmount": 0,
+      "hamaliCharge": 0,
+      "passCharge": 0,
+      "docketCharge": 0,
+      "totalAmount": 0,
+      "totalHandlingAmount": 0,
+      "totalUnloadHandlingAmount": 0,
+      "cargoStatus": {
+        "code": "CL",
+        "name": "Cargo Loaded",
+        "activeFlag": 1
+      },
+      "bookedAt": "2024-01-30 10:32:45",
+      "bookedUser": {
+        "code": "URM42GO15",
+        "name": "rajakannan",
+        "activeFlag": 1,
+        "currnetBalance": 0,
+        "creditLimit": 0,
+        "mobileVerifiedFlag": 0
+      },
+      "deliveredUser": {
+        "activeFlag": 1,
+        "currnetBalance": 0,
+        "creditLimit": 0,
+        "mobileVerifiedFlag": 0
+      },
+      "invoiceDetails": [],
+      "fromCustomerGST": "33AABCH0330E1ZG",
+      "toCustomerGST": "37AADCS0472N2Z0",
+      "transitCargoDetails": [
+        {
+          "code": "ODO1VIU7BAF8",
+          "activeFlag": 1,
+          "loadedCount": 0,
+          "unLoadedCount": 0,
+          "startOdometer": 0,
+          "endOdometer": 0
+        }
+      ],
+      "serviceTax": 0,
+      "serviceCharge": 0,
+      "vendorUser": {
+        "activeFlag": 1,
+        "hideCargoFreight": 0,
+        "creditLimit": 0,
+        "invoiceDueDays": 0,
+        "settlementDueDays": 0,
+        "emailVerifiedFlag": 0
+      },
+      "paymentSettlementFlag": 0,
+      "paymentSettlementDate": "NA",
+      "tax": {
+        "activeFlag": 1
+      },
+      "transitVehicle": {
+        "code": "BVHM1RG4234",
+        "name": "ss",
+        "activeFlag": 1,
+        "registrationDate": "2022-01-27",
+        "registationNumber": "TN82 5678",
+        "averageMileage": 0,
+        "fuelTankCapacity": 0,
+        "oilCapacity": 0,
+        "adblueCapacity": 0,
+        "loadCapacity": 0,
+        "lastOdometer": 0
+      },
+      "additionalAttribute": {
+        "CARGO_PARTIAL_STATUS_FLAG": "0",
+        "fromCustomerGstType": "INDL",
+        "REFERENCE_CARGO_CODE": "SLRA-01758",
+        "SEQUENCE_TYPE": "",
+        "CARGO_PARTITION_FLAG": "1",
+        "CARGO_LOOKUP_CODE": "SLRA-01758",
+        "toCustomerGstType": "INDL",
+        "SLUG": "ezcg.in/c/tfpg",
+        "LOAD_TYPE": "RGL",
+        "PRIVATE_MARK_NUMBER": "",
+        "SHIPMENT_TYPE": "OUT"
+      },
+      "cargoAddonsDetails": [],
+      "remarks": []
+    }
+  },
+  {
+    "cargo_code": "SLRA-01775-A",
+    "cargo_item_name": "Cotton Box",
+    "cargo_item_description": "test",
+    "cargo_status_code": "CL",
+    "payment_status_code": "PAD",
+    "booked_at": "2024-01-30 18:27:49",
+    "delivered_at": null,
+    "total_item_count": 2,
+    "total_unit_value": 0,
+    "total_actual_unit_value": 0,
+    "transaction_amount": 0,
+    "commission_amount": 0,
+    "pickup_handling_amount": 0,
+    "delivery_handling_amount": 0,
+    "hamali_charge": 0,
+    "pass_charge": 0,
+    "docket_charge": 0,
+    "pod_charge": 0,
+    "demurrage_charge": 0,
+    "connecting_charge": 0,
+    "round_off_value": 0,
+    "total_amount": 0,
+    "total_handling_amount": 0,
+    "total_unload_handling_amount": 0,
+    "total_amount_paid": 0,
+    "service_tax": 0,
+    "service_charge": 0,
+    "transaction_mode_code": null,
+    "from_station_code": "STF17D51",
+    "to_station_code": "STF17D52",
+    "from_station_short_code": "01",
+    "to_station_short_code": "MDU",
+    "from_station_name": "Chennai",
+    "to_station_name": "Madurai",
+    "transit_organization_code": "ORL8Q8Q3",
+    "transit_organization_short_code": "MAD",
+    "other_charges": "pickup_handling_amount:0.00,delivery_handling_amount:0.00,hamali_charge:0.00,pass_charge:0.00,docket_charge:0.00,service_charge:0.00,service_tax:0.00,total_handling_amount:0.00,total_unload_handling_amount:0.00,pod_charge:0.00,demurrage_charge:0.00,connecting_charges:0.00,round_off:0.00",
+    "other_charges_amount": 0,
+    "transit_organization_name": "Madurai 2",
+    "transit_station_code": "STF17D52",
+    "transit_station_name": "Madurai",
+    "user_code": "URM42GO15",
+    "user_first_name": "rajakannan",
+    "from_customer_name": "CHRISTOPHER",
+    "to_customer_name": "NELSON",
+    "from_customer_mobile": "9786123123",
+    "to_customer_mobile": "9500001210",
+    "from_organization_code": "OGF15670",
+    "from_organization_name": "KOYEAMBEDU",
+    "from_organization_short_code": "KOY",
+    "to_organization_code": "ORL8Q8Q3",
+    "to_organization_name": "Madurai 2",
+    "to_organization_short_code": "MAD",
+    "transit_from_organization_code": "OGF15670",
+    "transit_from_organization_short_code": "KOY",
+    "transit_from_organization_name": "KOYEAMBEDU",
+    "transit_to_organization_code": "ORL8Q8Q3",
+    "transit_to_organization_short_code": "MAD",
+    "transit_to_organization_name": "Madurai 2",
+    "transit_from_station_code": "STF17D51",
+    "transit_from_station_short_code": "01",
+    "transit_from_station_name": "Chennai",
+    "transit_to_station_code": "STF17D52",
+    "transit_to_station_short_code": "MDU",
+    "transit_to_station_name": "Madurai",
+    "eway_bill_no": null,
+    "start_odometer": 0,
+    "end_odometer": 0,
+    "pickup_type_code": "DYSE",
+    "delivery_type_code": "DYSE",
+    "door_delivery_remarks_code": null,
+    "door_delivery_remarks": null,
+    "door_delivery_handover_person": null,
+    "remarks_count": 0,
+    "booking_remarks": null,
+    "unloading_remarks": null,
+    "payment_settlement_flag": 1,
+    "additional_status_code": null,
+    "load_type": "RGL",
+    "private_mark_number": "",
+    "transit_details_type": "DFLT",
+    "cargo_type": "PBO",
+    "item_details": "CIO1VIT591097,Cotton Box-2",
+    "cargoData": {
+      "code": "SLRA-01775-A",
+      "activeFlag": 1,
+      "fromStation": {
+        "code": "STF17D51",
+        "name": "Chennai",
+        "activeFlag": 1,
+        "shortCode": "01"
+      },
+      "toStation": {
+        "code": "STF17D52",
+        "name": "Madurai",
+        "activeFlag": 1,
+        "shortCode": "MDU"
+      },
+      "fromOrganization": {
+        "code": "OGF15670",
+        "name": "KOYEAMBEDU",
+        "activeFlag": 1,
+        "address1": "Koyambedu",
+        "address2": "Koyambedu",
+        "contact": "9035902444, 9164841455",
+        "station": {
+          "code": "STF17D51",
+          "activeFlag": 1
+        },
+        "userCount": 0,
+        "shortCode": "KOY",
+        "hubFlag": true,
+        "deviationPercentage": 0,
+        "transitCloseMinutes": 0,
+        "transitHubBranchFlag": false
+      },
+      "toOrganization": {
+        "code": "ORL8Q8Q3",
+        "name": "Madurai 2",
+        "activeFlag": 1,
+        "address1": "RKG Travels, Platform No 05,Shop No 41,",
+        "address2": " Private Omni Bus Stand, Koyembedu , Chennai",
+        "contact": "9876543211,9432394312",
+        "station": {
+          "code": "STF17D52",
+          "activeFlag": 1
+        },
+        "userCount": 0,
+        "shortCode": "MAD",
+        "hubFlag": true,
+        "deviationPercentage": 0,
+        "transitCloseMinutes": 1200,
+        "transitHubBranchFlag": false
+      },
+      "transitOrganization": {
+        "code": "ORL8Q8Q3",
+        "name": "Madurai 2",
+        "activeFlag": 1,
+        "station": {
+          "code": "STF17D52",
+          "name": "Madurai",
+          "activeFlag": 1
+        },
+        "userCount": 0,
+        "hubFlag": false,
+        "deviationPercentage": 0,
+        "transitCloseMinutes": 1200,
+        "transitHubBranchFlag": false
+      },
+      "fromCustomer": {
+        "code": "CUM8OC39591",
+        "name": "CHRISTOPHER",
+        "activeFlag": 1,
+        "mobileNumber": "9786123123"
+      },
+      "toCustomer": {
+        "code": "CUM8PBN602",
+        "name": "NELSON",
+        "activeFlag": 1,
+        "mobileNumber": "9500001210"
+      },
+      "fromCustomerAddress": {
+        "activeFlag": 1,
+        "defaultFlag": 0
+      },
+      "toCustomerAddress": {
+        "activeFlag": 1,
+        "defaultFlag": 0
+      },
+      "itemDetails": [
+        {
+          "code": "CIO1VIT591097",
+          "activeFlag": 1,
+          "cargoItem": {
+            "code": "CIL8JK38268",
+            "name": "Cotton Box",
+            "activeFlag": 1,
+            "docRequriedFlag": 0,
+            "gstExemptedFlag": false,
+            "description": [
+              "test"
+            ]
+          },
+          "handlingChargeAmount": 0,
+          "unloadingChargeAmount": 0,
+          "fare": 0,
+          "unit": {
+            "code": "NPPKG",
+            "name": "No Price per Kg",
+            "activeFlag": 1
+          },
+          "itemCount": 2,
+          "unitValue": 1,
+          "actualUnitValue": 0,
+          "serviceTax": 0,
+          "tax": {
+            "activeFlag": 1
+          },
+          "itemCountPortion": [
+            "3",
+            "4"
+          ]
+        }
+      ],
+      "paymentType": {
+        "code": "PAD",
+        "name": "Paid",
+        "activeFlag": 1
+      },
+      "deliveryType": {
+        "code": "DYSE",
+        "name": "Self Pickup",
+        "activeFlag": 1
+      },
+      "pickupType": {
+        "code": "DYSE",
+        "name": "Self Pickup",
+        "activeFlag": 1
+      },
+      "cargoType": {
+        "code": "PBO",
+        "name": "Partial Booking",
+        "activeFlag": 1
+      },
+      "paymentAmount": 0,
+      "deliveryHandlingAmount": 0,
+      "pickupHandlingAmount": 0,
+      "hamaliCharge": 0,
+      "passCharge": 0,
+      "docketCharge": 0,
+      "totalAmount": 0,
+      "totalHandlingAmount": 0,
+      "totalUnloadHandlingAmount": 0,
+      "cargoStatus": {
+        "code": "CL",
+        "name": "Cargo Loaded",
+        "activeFlag": 1
+      },
+      "bookedAt": "2024-01-30 18:27:49",
+      "bookedUser": {
+        "code": "URM42GO15",
+        "name": "rajakannan",
+        "activeFlag": 1,
+        "currnetBalance": 0,
+        "creditLimit": 0,
+        "mobileVerifiedFlag": 0
+      },
+      "deliveredUser": {
+        "activeFlag": 1,
+        "currnetBalance": 0,
+        "creditLimit": 0,
+        "mobileVerifiedFlag": 0
+      },
+      "invoiceDetails": [],
+      "fromCustomerGST": "",
+      "toCustomerGST": "33AABCH0330E1ZG",
+      "transitCargoDetails": [
+        {
+          "code": "ODO1VIU7BAF8",
+          "activeFlag": 1,
+          "loadedCount": 0,
+          "unLoadedCount": 0,
+          "startOdometer": 0,
+          "endOdometer": 0
+        }
+      ],
+      "serviceTax": 0,
+      "serviceCharge": 0,
+      "vendorUser": {
+        "activeFlag": 1,
+        "hideCargoFreight": 0,
+        "creditLimit": 0,
+        "invoiceDueDays": 0,
+        "settlementDueDays": 0,
+        "emailVerifiedFlag": 0
+      },
+      "paymentSettlementFlag": 0,
+      "paymentSettlementDate": "NA",
+      "tax": {
+        "activeFlag": 1
+      },
+      "transitVehicle": {
+        "code": "BVHM1RG4234",
+        "name": "ss",
+        "activeFlag": 1,
+        "registrationDate": "2022-01-27",
+        "registationNumber": "TN82 5678",
+        "averageMileage": 0,
+        "fuelTankCapacity": 0,
+        "oilCapacity": 0,
+        "adblueCapacity": 0,
+        "loadCapacity": 0,
+        "lastOdometer": 0
+      },
+      "additionalAttribute": {
+        "CARGO_PARTIAL_STATUS_FLAG": "0",
+        "fromCustomerGstType": "INDL",
+        "REFERENCE_CARGO_CODE": "SLRA-01775",
+        "SEQUENCE_TYPE": "",
+        "CARGO_PARTITION_FLAG": "1",
+        "CARGO_LOOKUP_CODE": "SLRA-01775",
+        "toCustomerGstType": "INDL",
+        "SLUG": "ezcg.in/c/tfrw",
+        "LOAD_TYPE": "RGL",
+        "PRIVATE_MARK_NUMBER": "",
+        "SHIPMENT_TYPE": "OUT"
+      },
+      "cargoAddonsDetails": [],
+      "remarks": []
+    }
+  },
+  {
+    "cargo_code": "SLRA-01783-A",
+    "cargo_item_name": "Door Delivery",
+    "cargo_item_description": "test",
+    "cargo_status_code": "CL",
+    "payment_status_code": "PAD",
+    "booked_at": "2024-01-31 18:18:20",
+    "delivered_at": null,
+    "total_item_count": 1,
+    "total_unit_value": 0,
+    "total_actual_unit_value": 0,
+    "transaction_amount": 0,
+    "commission_amount": 0,
+    "pickup_handling_amount": 0,
+    "delivery_handling_amount": 0,
+    "hamali_charge": 0,
+    "pass_charge": 0,
+    "docket_charge": 0,
+    "pod_charge": 0,
+    "demurrage_charge": 0,
+    "connecting_charge": 0,
+    "round_off_value": 0,
+    "total_amount": 0,
+    "total_handling_amount": 0,
+    "total_unload_handling_amount": 0,
+    "total_amount_paid": 0,
+    "service_tax": 0,
+    "service_charge": 0,
+    "transaction_mode_code": null,
+    "from_station_code": "STF17D51",
+    "to_station_code": "STF1GI77",
+    "from_station_short_code": "01",
+    "to_station_short_code": null,
+    "from_station_name": "Chennai",
+    "to_station_name": "Trichy",
+    "transit_organization_code": "ORL8Q8Q3",
+    "transit_organization_short_code": "MAD",
+    "other_charges": "pickup_handling_amount:0.00,delivery_handling_amount:0.00,hamali_charge:0.00,pass_charge:0.00,docket_charge:0.00,service_charge:0.00,service_tax:0.00,total_handling_amount:0.00,total_unload_handling_amount:0.00,pod_charge:0.00,demurrage_charge:0.00,connecting_charges:0.00,round_off:0.00",
+    "other_charges_amount": 0,
+    "transit_organization_name": "Madurai 2",
+    "transit_station_code": "STF17D52",
+    "transit_station_name": "Madurai",
+    "user_code": "URN1OIJ62",
+    "user_first_name": "walltax",
+    "from_customer_name": "ISHWARIYA",
+    "to_customer_name": "ISMAIL",
+    "from_customer_mobile": "8050770709",
+    "to_customer_mobile": "7539958168",
+    "from_organization_code": "ORN1OIH27",
+    "from_organization_name": "CHENNAI - WALLTAX",
+    "from_organization_short_code": "CHW",
+    "to_organization_code": "ORM1KKK2",
+    "to_organization_name": "TRICHY",
+    "to_organization_short_code": "TRY",
+    "transit_from_organization_code": "OGF15670",
+    "transit_from_organization_short_code": "KOY",
+    "transit_from_organization_name": "KOYEAMBEDU",
+    "transit_to_organization_code": "ORL8Q8Q3",
+    "transit_to_organization_short_code": "MAD",
+    "transit_to_organization_name": "Madurai 2",
+    "transit_from_station_code": "STF17D51",
+    "transit_from_station_short_code": "01",
+    "transit_from_station_name": "Chennai",
+    "transit_to_station_code": "STF17D52",
+    "transit_to_station_short_code": "MDU",
+    "transit_to_station_name": "Madurai",
+    "eway_bill_no": null,
+    "start_odometer": 0,
+    "end_odometer": 0,
+    "pickup_type_code": "DYSE",
+    "delivery_type_code": "DYSE",
+    "door_delivery_remarks_code": null,
+    "door_delivery_remarks": null,
+    "door_delivery_handover_person": null,
+    "remarks_count": 0,
+    "booking_remarks": null,
+    "unloading_remarks": null,
+    "payment_settlement_flag": 1,
+    "additional_status_code": null,
+    "load_type": "RGL",
+    "private_mark_number": "",
+    "transit_details_type": "DFLT",
+    "cargo_type": "PBO",
+    "item_details": "CIO1VI38471105,Door Delivery-1",
+    "cargoData": {
+      "code": "SLRA-01783-A",
+      "activeFlag": 1,
+      "fromStation": {
+        "code": "STF17D51",
+        "name": "Chennai",
+        "activeFlag": 1,
+        "shortCode": "01"
+      },
+      "toStation": {
+        "code": "STF1GI77",
+        "name": "Trichy",
+        "activeFlag": 1,
+        "shortCode": ""
+      },
+      "fromOrganization": {
+        "code": "ORN1OIH27",
+        "name": "CHENNAI - WALLTAX",
+        "activeFlag": 1,
+        "address1": "54,Amman Kovil Street",
+        "address2": "Chennai Wall tax",
+        "contact": "9876213232",
+        "station": {
+          "code": "STF17D51",
+          "activeFlag": 1
+        },
+        "userCount": 0,
+        "shortCode": "CHW",
+        "hubFlag": true,
+        "deviationPercentage": 0,
+        "transitCloseMinutes": 0,
+        "transitHubBranchFlag": false
+      },
+      "toOrganization": {
+        "code": "ORM1KKK2",
+        "name": "TRICHY",
+        "activeFlag": 1,
+        "address1": "49,PALLA STREET, KALAYAMPOONDI village, uthirumearur t.k",
+        "address2": "",
+        "contact": "09655005152",
+        "station": {
+          "code": "STF1GI77",
+          "activeFlag": 1
+        },
+        "userCount": 0,
+        "shortCode": "TRY",
+        "hubFlag": true,
+        "deviationPercentage": 0,
+        "transitCloseMinutes": 0,
+        "transitHubBranchFlag": false
+      },
+      "transitOrganization": {
+        "code": "ORL8Q8Q3",
+        "name": "Madurai 2",
+        "activeFlag": 1,
+        "station": {
+          "code": "STF17D52",
+          "name": "Madurai",
+          "activeFlag": 1
+        },
+        "userCount": 0,
+        "hubFlag": false,
+        "deviationPercentage": 0,
+        "transitCloseMinutes": 1200,
+        "transitHubBranchFlag": false
+      },
+      "fromCustomer": {
+        "code": "CUM7SDW556",
+        "name": "ISHWARIYA",
+        "activeFlag": 1,
+        "mobileNumber": "8050770709"
+      },
+      "toCustomer": {
+        "code": "CUL9P9L13",
+        "name": "ISMAIL",
+        "activeFlag": 1,
+        "mobileNumber": "7539958168"
+      },
+      "fromCustomerAddress": {
+        "activeFlag": 1,
+        "defaultFlag": 0
+      },
+      "toCustomerAddress": {
+        "activeFlag": 1,
+        "defaultFlag": 0
+      },
+      "itemDetails": [
+        {
+          "code": "CIO1VI38471105",
+          "activeFlag": 1,
+          "cargoItem": {
+            "code": "CIM1SL456",
+            "name": "Door Delivery",
+            "activeFlag": 1,
+            "docRequriedFlag": 0,
+            "gstExemptedFlag": false,
+            "description": [
+              "test"
+            ]
+          },
+          "handlingChargeAmount": 0,
+          "unloadingChargeAmount": 0,
+          "fare": 0,
+          "unit": {
+            "code": "NPPKG",
+            "name": "No Price per Kg",
+            "activeFlag": 1
+          },
+          "itemCount": 1,
+          "unitValue": 1,
+          "actualUnitValue": 0,
+          "serviceTax": 0,
+          "tax": {
+            "activeFlag": 1
+          },
+          "itemCountPortion": [
+            "3"
+          ]
+        }
+      ],
+      "paymentType": {
+        "code": "PAD",
+        "name": "Paid",
+        "activeFlag": 1
+      },
+      "deliveryType": {
+        "code": "DYSE",
+        "name": "Self Pickup",
+        "activeFlag": 1
+      },
+      "pickupType": {
+        "code": "DYSE",
+        "name": "Self Pickup",
+        "activeFlag": 1
+      },
+      "cargoType": {
+        "code": "PBO",
+        "name": "Partial Booking",
+        "activeFlag": 1
+      },
+      "paymentAmount": 0,
+      "deliveryHandlingAmount": 0,
+      "pickupHandlingAmount": 0,
+      "hamaliCharge": 0,
+      "passCharge": 0,
+      "docketCharge": 0,
+      "totalAmount": 0,
+      "totalHandlingAmount": 0,
+      "totalUnloadHandlingAmount": 0,
+      "cargoStatus": {
+        "code": "CL",
+        "name": "Cargo Loaded",
+        "activeFlag": 1
+      },
+      "bookedAt": "2024-01-31 18:18:20",
+      "bookedUser": {
+        "code": "URN1OIJ62",
+        "name": "walltax",
+        "activeFlag": 1,
+        "currnetBalance": 0,
+        "creditLimit": 0,
+        "mobileVerifiedFlag": 0
+      },
+      "deliveredUser": {
+        "activeFlag": 1,
+        "currnetBalance": 0,
+        "creditLimit": 0,
+        "mobileVerifiedFlag": 0
+      },
+      "invoiceDetails": [],
+      "fromCustomerGST": "",
+      "toCustomerGST": "",
+      "transitCargoDetails": [
+        {
+          "code": "ODO1VIU7BAF8",
+          "activeFlag": 1,
+          "loadedCount": 0,
+          "unLoadedCount": 0,
+          "startOdometer": 0,
+          "endOdometer": 0
+        }
+      ],
+      "serviceTax": 0,
+      "serviceCharge": 0,
+      "vendorUser": {
+        "activeFlag": 1,
+        "hideCargoFreight": 0,
+        "creditLimit": 0,
+        "invoiceDueDays": 0,
+        "settlementDueDays": 0,
+        "emailVerifiedFlag": 0
+      },
+      "paymentSettlementFlag": 0,
+      "paymentSettlementDate": "NA",
+      "tax": {
+        "activeFlag": 1
+      },
+      "transitVehicle": {
+        "code": "BVHM1RG4234",
+        "name": "ss",
+        "activeFlag": 1,
+        "registrationDate": "2022-01-27",
+        "registationNumber": "TN82 5678",
+        "averageMileage": 0,
+        "fuelTankCapacity": 0,
+        "oilCapacity": 0,
+        "adblueCapacity": 0,
+        "loadCapacity": 0,
+        "lastOdometer": 0
+      },
+      "additionalAttribute": {
+        "CARGO_PARTIAL_STATUS_FLAG": "0",
+        "fromCustomerGstType": "INDL",
+        "REFERENCE_CARGO_CODE": "SLRA-01783",
+        "SEQUENCE_TYPE": "",
+        "CARGO_PARTITION_FLAG": "1",
+        "CARGO_LOOKUP_CODE": "SLRA-01783",
+        "toCustomerGstType": "INDL",
+        "SLUG": "ezcg.in/c/tfrB",
+        "LOAD_TYPE": "RGL",
+        "PRIVATE_MARK_NUMBER": "",
+        "SHIPMENT_TYPE": "OUT"
+      },
+      "cargoAddonsDetails": [],
+      "remarks": []
+    }
+  },
+  {
+    "cargo_code": "SLRA-01784-A",
+    "cargo_item_name": "Bike",
+    "cargo_item_description": "test",
+    "cargo_status_code": "CL",
+    "payment_status_code": "INP",
+    "booked_at": "2024-01-31 18:18:47",
+    "delivered_at": null,
+    "total_item_count": 1,
+    "total_unit_value": 0,
+    "total_actual_unit_value": 0,
+    "transaction_amount": 0,
+    "commission_amount": 0,
+    "pickup_handling_amount": 0,
+    "delivery_handling_amount": 0,
+    "hamali_charge": 0,
+    "pass_charge": 0,
+    "docket_charge": 0,
+    "pod_charge": 0,
+    "demurrage_charge": 0,
+    "connecting_charge": 0,
+    "round_off_value": 0,
+    "total_amount": 0,
+    "total_handling_amount": 0,
+    "total_unload_handling_amount": 0,
+    "total_amount_paid": 0,
+    "service_tax": 0,
+    "service_charge": 0,
+    "transaction_mode_code": null,
+    "from_station_code": "STF17D51",
+    "to_station_code": "STF1GI77",
+    "from_station_short_code": "01",
+    "to_station_short_code": null,
+    "from_station_name": "Chennai",
+    "to_station_name": "Trichy",
+    "transit_organization_code": "ORL8Q8Q3",
+    "transit_organization_short_code": "MAD",
+    "other_charges": "pickup_handling_amount:0.00,delivery_handling_amount:0.00,hamali_charge:0.00,pass_charge:0.00,docket_charge:0.00,service_charge:0.00,service_tax:0.00,total_handling_amount:0.00,total_unload_handling_amount:0.00,pod_charge:0.00,demurrage_charge:0.00,connecting_charges:0.00,round_off:0.00",
+    "other_charges_amount": 0,
+    "transit_organization_name": "Madurai 2",
+    "transit_station_code": "STF17D52",
+    "transit_station_name": "Madurai",
+    "user_code": "URN1OIJ62",
+    "user_first_name": "walltax",
+    "from_customer_name": "ASD",
+    "to_customer_name": "NEWLINE 2",
+    "from_customer_mobile": "9500002326",
+    "to_customer_mobile": "0000094985",
+    "from_organization_code": "ORN1OIH27",
+    "from_organization_name": "CHENNAI - WALLTAX",
+    "from_organization_short_code": "CHW",
+    "to_organization_code": "ORM1KKK2",
+    "to_organization_name": "TRICHY",
+    "to_organization_short_code": "TRY",
+    "transit_from_organization_code": "OGF15670",
+    "transit_from_organization_short_code": "KOY",
+    "transit_from_organization_name": "KOYEAMBEDU",
+    "transit_to_organization_code": "ORL8Q8Q3",
+    "transit_to_organization_short_code": "MAD",
+    "transit_to_organization_name": "Madurai 2",
+    "transit_from_station_code": "STF17D51",
+    "transit_from_station_short_code": "01",
+    "transit_from_station_name": "Chennai",
+    "transit_to_station_code": "STF17D52",
+    "transit_to_station_short_code": "MDU",
+    "transit_to_station_name": "Madurai",
+    "eway_bill_no": null,
+    "start_odometer": 0,
+    "end_odometer": 0,
+    "pickup_type_code": "DYSE",
+    "delivery_type_code": "DYSE",
+    "door_delivery_remarks_code": null,
+    "door_delivery_remarks": null,
+    "door_delivery_handover_person": null,
+    "remarks_count": 0,
+    "booking_remarks": null,
+    "unloading_remarks": null,
+    "payment_settlement_flag": 0,
+    "additional_status_code": null,
+    "load_type": "RGL",
+    "private_mark_number": "",
+    "transit_details_type": "DFLT",
+    "cargo_type": "PBO",
+    "item_details": "CIO1VI46541107,Bike-1",
+    "cargoData": {
+      "code": "SLRA-01784-A",
+      "activeFlag": 1,
+      "fromStation": {
+        "code": "STF17D51",
+        "name": "Chennai",
+        "activeFlag": 1,
+        "shortCode": "01"
+      },
+      "toStation": {
+        "code": "STF1GI77",
+        "name": "Trichy",
+        "activeFlag": 1,
+        "shortCode": ""
+      },
+      "fromOrganization": {
+        "code": "ORN1OIH27",
+        "name": "CHENNAI - WALLTAX",
+        "activeFlag": 1,
+        "address1": "54,Amman Kovil Street",
+        "address2": "Chennai Wall tax",
+        "contact": "9876213232",
+        "station": {
+          "code": "STF17D51",
+          "activeFlag": 1
+        },
+        "userCount": 0,
+        "shortCode": "CHW",
+        "hubFlag": true,
+        "deviationPercentage": 0,
+        "transitCloseMinutes": 0,
+        "transitHubBranchFlag": false
+      },
+      "toOrganization": {
+        "code": "ORM1KKK2",
+        "name": "TRICHY",
+        "activeFlag": 1,
+        "address1": "49,PALLA STREET, KALAYAMPOONDI village, uthirumearur t.k",
+        "address2": "",
+        "contact": "09655005152",
+        "station": {
+          "code": "STF1GI77",
+          "activeFlag": 1
+        },
+        "userCount": 0,
+        "shortCode": "TRY",
+        "hubFlag": true,
+        "deviationPercentage": 0,
+        "transitCloseMinutes": 0,
+        "transitHubBranchFlag": false
+      },
+      "transitOrganization": {
+        "code": "ORL8Q8Q3",
+        "name": "Madurai 2",
+        "activeFlag": 1,
+        "station": {
+          "code": "STF17D52",
+          "name": "Madurai",
+          "activeFlag": 1
+        },
+        "userCount": 0,
+        "hubFlag": false,
+        "deviationPercentage": 0,
+        "transitCloseMinutes": 1200,
+        "transitHubBranchFlag": false
+      },
+      "fromCustomer": {
+        "code": "CUN76I40777",
+        "name": "ASD",
+        "activeFlag": 1,
+        "mobileNumber": "9500002326"
+      },
+      "toCustomer": {
+        "code": "CUN29G56721",
+        "name": "NEWLINE 2",
+        "activeFlag": 1,
+        "mobileNumber": "0000094985"
+      },
+      "fromCustomerAddress": {
+        "activeFlag": 1,
+        "defaultFlag": 0
+      },
+      "toCustomerAddress": {
+        "activeFlag": 1,
+        "defaultFlag": 0
+      },
+      "itemDetails": [
+        {
+          "code": "CIO1VI46541107",
+          "activeFlag": 1,
+          "cargoItem": {
+            "code": "CILAUIR2",
+            "name": "Bike",
+            "activeFlag": 1,
+            "docRequriedFlag": 0,
+            "gstExemptedFlag": false,
+            "description": [
+              "test"
+            ]
+          },
+          "handlingChargeAmount": 0,
+          "unloadingChargeAmount": 0,
+          "fare": 0,
+          "unit": {
+            "code": "NPPKG",
+            "name": "No Price per Kg",
+            "activeFlag": 1
+          },
+          "itemCount": 1,
+          "unitValue": 1,
+          "actualUnitValue": 0,
+          "serviceTax": 0,
+          "tax": {
+            "activeFlag": 1
+          },
+          "itemCountPortion": [
+            "3"
+          ]
+        }
+      ],
+      "paymentType": {
+        "code": "INP",
+        "name": "On Account",
+        "activeFlag": 1
+      },
+      "deliveryType": {
+        "code": "DYSE",
+        "name": "Self Pickup",
+        "activeFlag": 1
+      },
+      "pickupType": {
+        "code": "DYSE",
+        "name": "Self Pickup",
+        "activeFlag": 1
+      },
+      "cargoType": {
+        "code": "PBO",
+        "name": "Partial Booking",
+        "activeFlag": 1
+      },
+      "paymentAmount": 0,
+      "deliveryHandlingAmount": 0,
+      "pickupHandlingAmount": 0,
+      "hamaliCharge": 0,
+      "passCharge": 0,
+      "docketCharge": 0,
+      "totalAmount": 0,
+      "totalHandlingAmount": 0,
+      "totalUnloadHandlingAmount": 0,
+      "cargoStatus": {
+        "code": "CL",
+        "name": "Cargo Loaded",
+        "activeFlag": 1
+      },
+      "bookedAt": "2024-01-31 18:18:47",
+      "bookedUser": {
+        "code": "URN1OIJ62",
+        "name": "walltax",
+        "activeFlag": 1,
+        "currnetBalance": 0,
+        "creditLimit": 0,
+        "mobileVerifiedFlag": 0
+      },
+      "deliveredUser": {
+        "activeFlag": 1,
+        "currnetBalance": 0,
+        "creditLimit": 0,
+        "mobileVerifiedFlag": 0
+      },
+      "invoiceDetails": [],
+      "fromCustomerGST": "32ABCFM8302L1ZD",
+      "toCustomerGST": "",
+      "transitCargoDetails": [
+        {
+          "code": "ODO1VIU7BAF8",
+          "activeFlag": 1,
+          "loadedCount": 0,
+          "unLoadedCount": 0,
+          "startOdometer": 0,
+          "endOdometer": 0
+        }
+      ],
+      "serviceTax": 0,
+      "serviceCharge": 0,
+      "vendorUser": {
+        "code": "CCV27851132J",
+        "name": "ADS Soft solutions",
+        "activeFlag": 1,
+        "hideCargoFreight": 0,
+        "creditLimit": 0,
+        "invoiceDueDays": 0,
+        "settlementDueDays": 0,
+        "emailVerifiedFlag": 0
+      },
+      "paymentSettlementFlag": 0,
+      "paymentSettlementDate": "NA",
+      "tax": {
+        "activeFlag": 1
+      },
+      "transitVehicle": {
+        "code": "BVHM1RG4234",
+        "name": "ss",
+        "activeFlag": 1,
+        "registrationDate": "2022-01-27",
+        "registationNumber": "TN82 5678",
+        "averageMileage": 0,
+        "fuelTankCapacity": 0,
+        "oilCapacity": 0,
+        "adblueCapacity": 0,
+        "loadCapacity": 0,
+        "lastOdometer": 0
+      },
+      "additionalAttribute": {
+        "CARGO_PARTIAL_STATUS_FLAG": "0",
+        "fromCustomerGstType": "INDL",
+        "REFERENCE_CARGO_CODE": "SLRA-01784",
+        "SEQUENCE_TYPE": "",
+        "CARGO_PARTITION_FLAG": "1",
+        "CARGO_LOOKUP_CODE": "SLRA-01784",
+        "toCustomerGstType": "INDL",
+        "SLUG": "ezcg.in/c/tfrg",
+        "LOAD_TYPE": "RGL",
+        "PRIVATE_MARK_NUMBER": "",
+        "SHIPMENT_TYPE": "OUT"
+      },
+      "cargoAddonsDetails": [],
+      "remarks": []
+    }
+  },
+  {
+    "cargo_code": "SLRA-01775-B1",
+    "cargo_item_name": "Cotton Box",
+    "cargo_item_description": "test",
+    "cargo_status_code": "CL",
+    "payment_status_code": "PAD",
+    "booked_at": "2024-01-30 18:27:49",
+    "delivered_at": null,
+    "total_item_count": 2,
+    "total_unit_value": 0,
+    "total_actual_unit_value": 0,
+    "transaction_amount": 0,
+    "commission_amount": 0,
+    "pickup_handling_amount": 0,
+    "delivery_handling_amount": 0,
+    "hamali_charge": 0,
+    "pass_charge": 0,
+    "docket_charge": 0,
+    "pod_charge": 0,
+    "demurrage_charge": 0,
+    "connecting_charge": 0,
+    "round_off_value": 0,
+    "total_amount": 0,
+    "total_handling_amount": 0,
+    "total_unload_handling_amount": 0,
+    "total_amount_paid": 0,
+    "service_tax": 0,
+    "service_charge": 0,
+    "transaction_mode_code": null,
+    "from_station_code": "STF17D51",
+    "to_station_code": "STF17D52",
+    "from_station_short_code": "01",
+    "to_station_short_code": "MDU",
+    "from_station_name": "Chennai",
+    "to_station_name": "Madurai",
+    "transit_organization_code": "ORL8Q8Q3",
+    "transit_organization_short_code": "MAD",
+    "other_charges": "pickup_handling_amount:0.00,delivery_handling_amount:0.00,hamali_charge:0.00,pass_charge:0.00,docket_charge:0.00,service_charge:0.00,service_tax:0.00,total_handling_amount:0.00,total_unload_handling_amount:0.00,pod_charge:0.00,demurrage_charge:0.00,connecting_charges:0.00,round_off:0.00",
+    "other_charges_amount": 0,
+    "transit_organization_name": "Madurai 2",
+    "transit_station_code": "STF17D52",
+    "transit_station_name": "Madurai",
+    "user_code": "URM42GO15",
+    "user_first_name": "rajakannan",
+    "from_customer_name": "CHRISTOPHER",
+    "to_customer_name": "NELSON",
+    "from_customer_mobile": "9786123123",
+    "to_customer_mobile": "9500001210",
+    "from_organization_code": "OGF15670",
+    "from_organization_name": "KOYEAMBEDU",
+    "from_organization_short_code": "KOY",
+    "to_organization_code": "ORL8Q8Q3",
+    "to_organization_name": "Madurai 2",
+    "to_organization_short_code": "MAD",
+    "transit_from_organization_code": "OGF15670",
+    "transit_from_organization_short_code": "KOY",
+    "transit_from_organization_name": "KOYEAMBEDU",
+    "transit_to_organization_code": "ORL8Q8Q3",
+    "transit_to_organization_short_code": "MAD",
+    "transit_to_organization_name": "Madurai 2",
+    "transit_from_station_code": "STF17D51",
+    "transit_from_station_short_code": "01",
+    "transit_from_station_name": "Chennai",
+    "transit_to_station_code": "STF17D52",
+    "transit_to_station_short_code": "MDU",
+    "transit_to_station_name": "Madurai",
+    "eway_bill_no": null,
+    "start_odometer": 0,
+    "end_odometer": 0,
+    "pickup_type_code": "DYSE",
+    "delivery_type_code": "DYSE",
+    "door_delivery_remarks_code": null,
+    "door_delivery_remarks": null,
+    "door_delivery_handover_person": null,
+    "remarks_count": 0,
+    "booking_remarks": null,
+    "unloading_remarks": null,
+    "payment_settlement_flag": 1,
+    "additional_status_code": null,
+    "load_type": "RGL",
+    "private_mark_number": "",
+    "transit_details_type": "DFLT",
+    "cargo_type": "PBO",
+    "item_details": "CIO1VI49O1109,Cotton Box-2",
+    "cargoData": {
+      "code": "SLRA-01775-B1",
+      "activeFlag": 1,
+      "fromStation": {
+        "code": "STF17D51",
+        "name": "Chennai",
+        "activeFlag": 1,
+        "shortCode": "01"
+      },
+      "toStation": {
+        "code": "STF17D52",
+        "name": "Madurai",
+        "activeFlag": 1,
+        "shortCode": "MDU"
+      },
+      "fromOrganization": {
+        "code": "OGF15670",
+        "name": "KOYEAMBEDU",
+        "activeFlag": 1,
+        "address1": "Koyambedu",
+        "address2": "Koyambedu",
+        "contact": "9035902444, 9164841455",
+        "station": {
+          "code": "STF17D51",
+          "activeFlag": 1
+        },
+        "userCount": 0,
+        "shortCode": "KOY",
+        "hubFlag": true,
+        "deviationPercentage": 0,
+        "transitCloseMinutes": 0,
+        "transitHubBranchFlag": false
+      },
+      "toOrganization": {
+        "code": "ORL8Q8Q3",
+        "name": "Madurai 2",
+        "activeFlag": 1,
+        "address1": "RKG Travels, Platform No 05,Shop No 41,",
+        "address2": " Private Omni Bus Stand, Koyembedu , Chennai",
+        "contact": "9876543211,9432394312",
+        "station": {
+          "code": "STF17D52",
+          "activeFlag": 1
+        },
+        "userCount": 0,
+        "shortCode": "MAD",
+        "hubFlag": true,
+        "deviationPercentage": 0,
+        "transitCloseMinutes": 1200,
+        "transitHubBranchFlag": false
+      },
+      "transitOrganization": {
+        "code": "ORL8Q8Q3",
+        "name": "Madurai 2",
+        "activeFlag": 1,
+        "station": {
+          "code": "STF17D52",
+          "name": "Madurai",
+          "activeFlag": 1
+        },
+        "userCount": 0,
+        "hubFlag": false,
+        "deviationPercentage": 0,
+        "transitCloseMinutes": 1200,
+        "transitHubBranchFlag": false
+      },
+      "fromCustomer": {
+        "code": "CUM8OC39591",
+        "name": "CHRISTOPHER",
+        "activeFlag": 1,
+        "mobileNumber": "9786123123"
+      },
+      "toCustomer": {
+        "code": "CUM8PBN602",
+        "name": "NELSON",
+        "activeFlag": 1,
+        "mobileNumber": "9500001210"
+      },
+      "fromCustomerAddress": {
+        "activeFlag": 1,
+        "defaultFlag": 0
+      },
+      "toCustomerAddress": {
+        "activeFlag": 1,
+        "defaultFlag": 0
+      },
+      "itemDetails": [
+        {
+          "code": "CIO1VI49O1109",
+          "activeFlag": 1,
+          "cargoItem": {
+            "code": "CIL8JK38268",
+            "name": "Cotton Box",
+            "activeFlag": 1,
+            "docRequriedFlag": 0,
+            "gstExemptedFlag": false,
+            "description": [
+              "test"
+            ]
+          },
+          "handlingChargeAmount": 0,
+          "unloadingChargeAmount": 0,
+          "fare": 0,
+          "unit": {
+            "code": "NPPKG",
+            "name": "No Price per Kg",
+            "activeFlag": 1
+          },
+          "itemCount": 2,
+          "unitValue": 1,
+          "actualUnitValue": 0,
+          "serviceTax": 0,
+          "tax": {
+            "activeFlag": 1
+          },
+          "itemCountPortion": [
+            "2",
+            "5"
+          ]
+        }
+      ],
+      "paymentType": {
+        "code": "PAD",
+        "name": "Paid",
+        "activeFlag": 1
+      },
+      "deliveryType": {
+        "code": "DYSE",
+        "name": "Self Pickup",
+        "activeFlag": 1
+      },
+      "pickupType": {
+        "code": "DYSE",
+        "name": "Self Pickup",
+        "activeFlag": 1
+      },
+      "cargoType": {
+        "code": "PBO",
+        "name": "Partial Booking",
+        "activeFlag": 1
+      },
+      "paymentAmount": 0,
+      "deliveryHandlingAmount": 0,
+      "pickupHandlingAmount": 0,
+      "hamaliCharge": 0,
+      "passCharge": 0,
+      "docketCharge": 0,
+      "totalAmount": 0,
+      "totalHandlingAmount": 0,
+      "totalUnloadHandlingAmount": 0,
+      "cargoStatus": {
+        "code": "CL",
+        "name": "Cargo Loaded",
+        "activeFlag": 1
+      },
+      "bookedAt": "2024-01-30 18:27:49",
+      "bookedUser": {
+        "code": "URM42GO15",
+        "name": "rajakannan",
+        "activeFlag": 1,
+        "currnetBalance": 0,
+        "creditLimit": 0,
+        "mobileVerifiedFlag": 0
+      },
+      "deliveredUser": {
+        "activeFlag": 1,
+        "currnetBalance": 0,
+        "creditLimit": 0,
+        "mobileVerifiedFlag": 0
+      },
+      "invoiceDetails": [],
+      "fromCustomerGST": "",
+      "toCustomerGST": "33AABCH0330E1ZG",
+      "transitCargoDetails": [
+        {
+          "code": "ODO1VIU7BAF8",
+          "activeFlag": 1,
+          "loadedCount": 0,
+          "unLoadedCount": 0,
+          "startOdometer": 0,
+          "endOdometer": 0
+        }
+      ],
+      "serviceTax": 0,
+      "serviceCharge": 0,
+      "vendorUser": {
+        "activeFlag": 1,
+        "hideCargoFreight": 0,
+        "creditLimit": 0,
+        "invoiceDueDays": 0,
+        "settlementDueDays": 0,
+        "emailVerifiedFlag": 0
+      },
+      "paymentSettlementFlag": 0,
+      "paymentSettlementDate": "NA",
+      "tax": {
+        "activeFlag": 1
+      },
+      "transitVehicle": {
+        "code": "BVHM1RG4234",
+        "name": "ss",
+        "activeFlag": 1,
+        "registrationDate": "2022-01-27",
+        "registationNumber": "TN82 5678",
+        "averageMileage": 0,
+        "fuelTankCapacity": 0,
+        "oilCapacity": 0,
+        "adblueCapacity": 0,
+        "loadCapacity": 0,
+        "lastOdometer": 0
+      },
+      "additionalAttribute": {
+        "CARGO_PARTIAL_STATUS_FLAG": "0",
+        "fromCustomerGstType": "INDL",
+        "REFERENCE_CARGO_CODE": "SLRA-01775",
+        "SEQUENCE_TYPE": "",
+        "CARGO_PARTITION_FLAG": "1",
+        "CARGO_LOOKUP_CODE": "SLRA-01775-B",
+        "toCustomerGstType": "INDL",
+        "SLUG": "ezcg.in/c/tfrJ",
+        "LOAD_TYPE": "RGL",
+        "PRIVATE_MARK_NUMBER": "",
+        "SHIPMENT_TYPE": "OUT"
+      },
+      "cargoAddonsDetails": [],
+      "remarks": []
+    }
+  },
+  {
+    "cargo_code": "SLRA-01765-B",
+    "cargo_item_name": "Bag",
+    "cargo_item_description": "Tester",
+    "cargo_status_code": "CL",
+    "payment_status_code": "TOP",
+    "booked_at": "2024-01-30 12:19:50",
+    "delivered_at": null,
+    "total_item_count": 1,
+    "total_unit_value": 0,
+    "total_actual_unit_value": 0,
+    "transaction_amount": 0,
+    "commission_amount": 0,
+    "pickup_handling_amount": 0,
+    "delivery_handling_amount": 0,
+    "hamali_charge": 0,
+    "pass_charge": 0,
+    "docket_charge": 0,
+    "pod_charge": 0,
+    "demurrage_charge": 0,
+    "connecting_charge": 0,
+    "round_off_value": 0,
+    "total_amount": 0,
+    "total_handling_amount": 0,
+    "total_unload_handling_amount": 0,
+    "total_amount_paid": 0,
+    "service_tax": 0,
+    "service_charge": 0,
+    "transaction_mode_code": null,
+    "from_station_code": "STF17D51",
+    "to_station_code": "STF1GI77",
+    "from_station_short_code": "01",
+    "to_station_short_code": null,
+    "from_station_name": "Chennai",
+    "to_station_name": "Trichy",
+    "transit_organization_code": "ORM1KKK2",
+    "transit_organization_short_code": "TRY",
+    "other_charges": "pickup_handling_amount:0.00,delivery_handling_amount:0.00,hamali_charge:0.00,pass_charge:0.00,docket_charge:0.00,service_charge:0.00,service_tax:0.00,total_handling_amount:0.00,total_unload_handling_amount:0.00,pod_charge:0.00,demurrage_charge:0.00,connecting_charges:0.00,round_off:0.00",
+    "other_charges_amount": 0,
+    "transit_organization_name": "TRICHY",
+    "transit_station_code": "STF1GI77",
+    "transit_station_name": "Trichy",
+    "user_code": "URM42GO15",
+    "user_first_name": "rajakannan",
+    "from_customer_name": "AUTOPRO",
+    "to_customer_name": "GC",
+    "from_customer_mobile": "9436463473",
+    "to_customer_mobile": "9870695847",
+    "from_organization_code": "OGF15670",
+    "from_organization_name": "KOYEAMBEDU",
+    "from_organization_short_code": "KOY",
+    "to_organization_code": "ORM1KKK2",
+    "to_organization_name": "TRICHY",
+    "to_organization_short_code": "TRY",
+    "transit_from_organization_code": "OGF15670",
+    "transit_from_organization_short_code": "KOY",
+    "transit_from_organization_name": "KOYEAMBEDU",
+    "transit_to_organization_code": "ORM1KKK2",
+    "transit_to_organization_short_code": "TRY",
+    "transit_to_organization_name": "TRICHY",
+    "transit_from_station_code": "STF17D51",
+    "transit_from_station_short_code": "01",
+    "transit_from_station_name": "Chennai",
+    "transit_to_station_code": "STF1GI77",
+    "transit_to_station_short_code": null,
+    "transit_to_station_name": "Trichy",
+    "eway_bill_no": null,
+    "start_odometer": 0,
+    "end_odometer": 0,
+    "pickup_type_code": "DYSE",
+    "delivery_type_code": "DYSE",
+    "door_delivery_remarks_code": null,
+    "door_delivery_remarks": null,
+    "door_delivery_handover_person": null,
+    "remarks_count": 0,
+    "booking_remarks": null,
+    "unloading_remarks": null,
+    "payment_settlement_flag": 0,
+    "additional_status_code": null,
+    "load_type": "RGL",
+    "private_mark_number": "",
+    "transit_details_type": "DFLT",
+    "cargo_type": "PBO",
+    "item_details": "CIO1UCNR1183,Bag-1",
+    "cargoData": {
+      "code": "SLRA-01765-B",
+      "activeFlag": 1,
+      "fromStation": {
+        "code": "STF17D51",
+        "name": "Chennai",
+        "activeFlag": 1,
+        "shortCode": "01"
+      },
+      "toStation": {
+        "code": "STF1GI77",
+        "name": "Trichy",
+        "activeFlag": 1,
+        "shortCode": ""
+      },
+      "fromOrganization": {
+        "code": "OGF15670",
+        "name": "KOYEAMBEDU",
+        "activeFlag": 1,
+        "address1": "Koyambedu",
+        "address2": "Koyambedu",
+        "contact": "9035902444, 9164841455",
+        "station": {
+          "code": "STF17D51",
+          "activeFlag": 1
+        },
+        "userCount": 0,
+        "shortCode": "KOY",
+        "hubFlag": true,
+        "deviationPercentage": 0,
+        "transitCloseMinutes": 0,
+        "transitHubBranchFlag": false
+      },
+      "toOrganization": {
+        "code": "ORM1KKK2",
+        "name": "TRICHY",
+        "activeFlag": 1,
+        "address1": "49,PALLA STREET, KALAYAMPOONDI village, uthirumearur t.k",
+        "address2": "",
+        "contact": "09655005152",
+        "station": {
+          "code": "STF1GI77",
+          "activeFlag": 1
+        },
+        "userCount": 0,
+        "shortCode": "TRY",
+        "hubFlag": true,
+        "deviationPercentage": 0,
+        "transitCloseMinutes": 0,
+        "transitHubBranchFlag": false
+      },
+      "transitOrganization": {
+        "code": "ORM1KKK2",
+        "name": "TRICHY",
+        "activeFlag": 1,
+        "station": {
+          "code": "STF1GI77",
+          "name": "Trichy",
+          "activeFlag": 1
+        },
+        "userCount": 0,
+        "hubFlag": false,
+        "deviationPercentage": 0,
+        "transitCloseMinutes": 0,
+        "transitHubBranchFlag": false
+      },
+      "fromCustomer": {
+        "code": "CUM8PCK605",
+        "name": "AUTOPRO",
+        "activeFlag": 1,
+        "mobileNumber": "9436463473"
+      },
+      "toCustomer": {
+        "code": "CUM8NH8589",
+        "name": "GC",
+        "activeFlag": 1,
+        "mobileNumber": "9870695847"
+      },
+      "fromCustomerAddress": {
+        "activeFlag": 1,
+        "defaultFlag": 0
+      },
+      "toCustomerAddress": {
+        "activeFlag": 1,
+        "defaultFlag": 0
+      },
+      "itemDetails": [
+        {
+          "code": "CIO1UCNR1183",
+          "activeFlag": 1,
+          "cargoItem": {
+            "code": "CIM2AE387",
+            "name": "Bag",
+            "activeFlag": 1,
+            "docRequriedFlag": 0,
+            "gstExemptedFlag": false,
+            "description": [
+              "Tester"
+            ]
+          },
+          "handlingChargeAmount": 0,
+          "unloadingChargeAmount": 0,
+          "fare": 0,
+          "unit": {
+            "code": "NPPKG",
+            "name": "No Price per Kg",
+            "activeFlag": 1
+          },
+          "itemCount": 1,
+          "unitValue": 1,
+          "actualUnitValue": 0,
+          "serviceTax": 0,
+          "tax": {
+            "activeFlag": 1
+          },
+          "itemCountPortion": [
+            "1"
+          ]
+        }
+      ],
+      "paymentType": {
+        "code": "TOP",
+        "name": "To Pay",
+        "activeFlag": 1
+      },
+      "deliveryType": {
+        "code": "DYSE",
+        "name": "Self Pickup",
+        "activeFlag": 1
+      },
+      "pickupType": {
+        "code": "DYSE",
+        "name": "Self Pickup",
+        "activeFlag": 1
+      },
+      "cargoType": {
+        "code": "PBO",
+        "name": "Partial Booking",
+        "activeFlag": 1
+      },
+      "paymentAmount": 0,
+      "deliveryHandlingAmount": 0,
+      "pickupHandlingAmount": 0,
+      "hamaliCharge": 0,
+      "passCharge": 0,
+      "docketCharge": 0,
+      "totalAmount": 0,
+      "totalHandlingAmount": 0,
+      "totalUnloadHandlingAmount": 0,
+      "cargoStatus": {
+        "code": "CL",
+        "name": "Cargo Loaded",
+        "activeFlag": 1
+      },
+      "bookedAt": "2024-01-30 12:19:50",
+      "bookedUser": {
+        "code": "URM42GO15",
+        "name": "rajakannan",
+        "activeFlag": 1,
+        "currnetBalance": 0,
+        "creditLimit": 0,
+        "mobileVerifiedFlag": 0
+      },
+      "deliveredUser": {
+        "activeFlag": 1,
+        "currnetBalance": 0,
+        "creditLimit": 0,
+        "mobileVerifiedFlag": 0
+      },
+      "invoiceDetails": [],
+      "fromCustomerGST": "33AAACR3582R1ZW",
+      "toCustomerGST": "37AADCS0472N2Z0",
+      "transitCargoDetails": [
+        {
+          "code": "ODO1VI385230B6",
+          "activeFlag": 1,
+          "loadedCount": 0,
+          "unLoadedCount": 0,
+          "startOdometer": 0,
+          "endOdometer": 0
+        }
+      ],
+      "serviceTax": 0,
+      "serviceCharge": 0,
+      "vendorUser": {
+        "activeFlag": 1,
+        "hideCargoFreight": 0,
+        "creditLimit": 0,
+        "invoiceDueDays": 0,
+        "settlementDueDays": 0,
+        "emailVerifiedFlag": 0
+      },
+      "paymentSettlementFlag": 0,
+      "paymentSettlementDate": "NA",
+      "tax": {
+        "activeFlag": 1
+      },
+      "transitVehicle": {
+        "code": "BVHM1RG4234",
+        "name": "ss",
+        "activeFlag": 1,
+        "registrationDate": "2022-01-27",
+        "registationNumber": "TN82 5678",
+        "averageMileage": 0,
+        "fuelTankCapacity": 0,
+        "oilCapacity": 0,
+        "adblueCapacity": 0,
+        "loadCapacity": 0,
+        "lastOdometer": 0
+      },
+      "additionalAttribute": {
+        "CARGO_PARTIAL_STATUS_FLAG": "0",
+        "fromCustomerGstType": "INDL",
+        "REFERENCE_CARGO_CODE": "SLRA-01765",
+        "SEQUENCE_TYPE": "",
+        "CARGO_PARTITION_FLAG": "1",
+        "CARGO_LOOKUP_CODE": "SLRA-01765",
+        "toCustomerGstType": "INDL",
+        "SLUG": "ezcg.in/c/tfpF",
+        "LOAD_TYPE": "RGL",
+        "PRIVATE_MARK_NUMBER": "",
+        "SHIPMENT_TYPE": "OUT"
+      },
+      "cargoAddonsDetails": [],
+      "remarks": []
+    }
+  },
+  {
+    "cargo_code": "SLRA-01777-B",
+    "cargo_item_name": "BOX, Cotton Box",
+    "cargo_item_description": "Small Box, sad",
+    "cargo_status_code": "CL",
+    "payment_status_code": "PAD",
+    "booked_at": "2024-01-30 18:29:16",
+    "delivered_at": null,
+    "total_item_count": 6,
+    "total_unit_value": 0,
+    "total_actual_unit_value": 0,
+    "transaction_amount": 0,
+    "commission_amount": 0,
+    "pickup_handling_amount": 0,
+    "delivery_handling_amount": 0,
+    "hamali_charge": 0,
+    "pass_charge": 0,
+    "docket_charge": 0,
+    "pod_charge": 0,
+    "demurrage_charge": 0,
+    "connecting_charge": 0,
+    "round_off_value": 0,
+    "total_amount": 0,
+    "total_handling_amount": 0,
+    "total_unload_handling_amount": 0,
+    "total_amount_paid": 0,
+    "service_tax": 0,
+    "service_charge": 0,
+    "transaction_mode_code": null,
+    "from_station_code": "STF17D51",
+    "to_station_code": "STF1GI77",
+    "from_station_short_code": "01",
+    "to_station_short_code": null,
+    "from_station_name": "Chennai",
+    "to_station_name": "Trichy",
+    "transit_organization_code": "ORM1KKK2",
+    "transit_organization_short_code": "TRY",
+    "other_charges": "pickup_handling_amount:0.00,delivery_handling_amount:0.00,hamali_charge:0.00,pass_charge:0.00,docket_charge:0.00,service_charge:0.00,service_tax:0.00,total_handling_amount:0.00,total_unload_handling_amount:0.00,pod_charge:0.00,demurrage_charge:0.00,connecting_charges:0.00,round_off:0.00",
+    "other_charges_amount": 0,
+    "transit_organization_name": "TRICHY",
+    "transit_station_code": "STF1GI77",
+    "transit_station_name": "Trichy",
+    "user_code": "URM42GO15",
+    "user_first_name": "rajakannan",
+    "from_customer_name": "AUTOPRO",
+    "to_customer_name": "GC",
+    "from_customer_mobile": "9436463473",
+    "to_customer_mobile": "9870695847",
+    "from_organization_code": "OGF15670",
+    "from_organization_name": "KOYEAMBEDU",
+    "from_organization_short_code": "KOY",
+    "to_organization_code": "ORM1KKK2",
+    "to_organization_name": "TRICHY",
+    "to_organization_short_code": "TRY",
+    "transit_from_organization_code": "OGF15670",
+    "transit_from_organization_short_code": "KOY",
+    "transit_from_organization_name": "KOYEAMBEDU",
+    "transit_to_organization_code": "ORM1KKK2",
+    "transit_to_organization_short_code": "TRY",
+    "transit_to_organization_name": "TRICHY",
+    "transit_from_station_code": "STF17D51",
+    "transit_from_station_short_code": "01",
+    "transit_from_station_name": "Chennai",
+    "transit_to_station_code": "STF1GI77",
+    "transit_to_station_short_code": null,
+    "transit_to_station_name": "Trichy",
+    "eway_bill_no": null,
+    "start_odometer": 0,
+    "end_odometer": 0,
+    "pickup_type_code": "DYSE",
+    "delivery_type_code": "DYSE",
+    "door_delivery_remarks_code": null,
+    "door_delivery_remarks": null,
+    "door_delivery_handover_person": null,
+    "remarks_count": 0,
+    "booking_remarks": null,
+    "unloading_remarks": null,
+    "payment_settlement_flag": 1,
+    "additional_status_code": null,
+    "load_type": "RGL",
+    "private_mark_number": "",
+    "transit_details_type": "DFLT",
+    "cargo_type": "PBO",
+    "item_details": "CIO1VI36551103,BOX-3|CIO1VI36551104,Cotton Box-3",
+    "cargoData": {
+      "code": "SLRA-01777-B",
+      "activeFlag": 1,
+      "fromStation": {
+        "code": "STF17D51",
+        "name": "Chennai",
+        "activeFlag": 1,
+        "shortCode": "01"
+      },
+      "toStation": {
+        "code": "STF1GI77",
+        "name": "Trichy",
+        "activeFlag": 1,
+        "shortCode": ""
+      },
+      "fromOrganization": {
+        "code": "OGF15670",
+        "name": "KOYEAMBEDU",
+        "activeFlag": 1,
+        "address1": "Koyambedu",
+        "address2": "Koyambedu",
+        "contact": "9035902444, 9164841455",
+        "station": {
+          "code": "STF17D51",
+          "activeFlag": 1
+        },
+        "userCount": 0,
+        "shortCode": "KOY",
+        "hubFlag": true,
+        "deviationPercentage": 0,
+        "transitCloseMinutes": 0,
+        "transitHubBranchFlag": false
+      },
+      "toOrganization": {
+        "code": "ORM1KKK2",
+        "name": "TRICHY",
+        "activeFlag": 1,
+        "address1": "49,PALLA STREET, KALAYAMPOONDI village, uthirumearur t.k",
+        "address2": "",
+        "contact": "09655005152",
+        "station": {
+          "code": "STF1GI77",
+          "activeFlag": 1
+        },
+        "userCount": 0,
+        "shortCode": "TRY",
+        "hubFlag": true,
+        "deviationPercentage": 0,
+        "transitCloseMinutes": 0,
+        "transitHubBranchFlag": false
+      },
+      "transitOrganization": {
+        "code": "ORM1KKK2",
+        "name": "TRICHY",
+        "activeFlag": 1,
+        "station": {
+          "code": "STF1GI77",
+          "name": "Trichy",
+          "activeFlag": 1
+        },
+        "userCount": 0,
+        "hubFlag": false,
+        "deviationPercentage": 0,
+        "transitCloseMinutes": 0,
+        "transitHubBranchFlag": false
+      },
+      "fromCustomer": {
+        "code": "CUM8PCK605",
+        "name": "AUTOPRO",
+        "activeFlag": 1,
+        "mobileNumber": "9436463473"
+      },
+      "toCustomer": {
+        "code": "CUM8NH8589",
+        "name": "GC",
+        "activeFlag": 1,
+        "mobileNumber": "9870695847"
+      },
+      "fromCustomerAddress": {
+        "activeFlag": 1,
+        "defaultFlag": 0
+      },
+      "toCustomerAddress": {
+        "activeFlag": 1,
+        "defaultFlag": 0
+      },
+      "itemDetails": [
+        {
+          "code": "CIO1VI36551103",
+          "activeFlag": 1,
+          "cargoItem": {
+            "code": "CILCKI365",
+            "name": "BOX",
+            "activeFlag": 1,
+            "docRequriedFlag": 0,
+            "gstExemptedFlag": false,
+            "description": [
+              "Small Box"
+            ]
+          },
+          "handlingChargeAmount": 0,
+          "unloadingChargeAmount": 0,
+          "fare": 0,
+          "unit": {
+            "code": "NPPKG",
+            "name": "No Price per Kg",
+            "activeFlag": 1
+          },
+          "itemCount": 3,
+          "unitValue": 1,
+          "actualUnitValue": 0,
+          "serviceTax": 0,
+          "tax": {
+            "activeFlag": 1
+          },
+          "itemCountPortion": [
+            "1",
+            "2",
+            "3"
+          ]
+        },
+        {
+          "code": "CIO1VI36551104",
+          "activeFlag": 1,
+          "cargoItem": {
+            "code": "CIL8JK38268",
+            "name": "Cotton Box",
+            "activeFlag": 1,
+            "docRequriedFlag": 0,
+            "gstExemptedFlag": false,
+            "description": [
+              "sad"
+            ]
+          },
+          "handlingChargeAmount": 0,
+          "unloadingChargeAmount": 0,
+          "fare": 0,
+          "unit": {
+            "code": "NPPKG",
+            "name": "No Price per Kg",
+            "activeFlag": 1
+          },
+          "itemCount": 3,
+          "unitValue": 1,
+          "actualUnitValue": 0,
+          "serviceTax": 0,
+          "tax": {
+            "activeFlag": 1
+          },
+          "itemCountPortion": [
+            "1",
+            "2",
+            "3"
+          ]
+        }
+      ],
+      "paymentType": {
+        "code": "PAD",
+        "name": "Paid",
+        "activeFlag": 1
+      },
+      "deliveryType": {
+        "code": "DYSE",
+        "name": "Self Pickup",
+        "activeFlag": 1
+      },
+      "pickupType": {
+        "code": "DYSE",
+        "name": "Self Pickup",
+        "activeFlag": 1
+      },
+      "cargoType": {
+        "code": "PBO",
+        "name": "Partial Booking",
+        "activeFlag": 1
+      },
+      "paymentAmount": 0,
+      "deliveryHandlingAmount": 0,
+      "pickupHandlingAmount": 0,
+      "hamaliCharge": 0,
+      "passCharge": 0,
+      "docketCharge": 0,
+      "totalAmount": 0,
+      "totalHandlingAmount": 0,
+      "totalUnloadHandlingAmount": 0,
+      "cargoStatus": {
+        "code": "CL",
+        "name": "Cargo Loaded",
+        "activeFlag": 1
+      },
+      "bookedAt": "2024-01-30 18:29:16",
+      "bookedUser": {
+        "code": "URM42GO15",
+        "name": "rajakannan",
+        "activeFlag": 1,
+        "currnetBalance": 0,
+        "creditLimit": 0,
+        "mobileVerifiedFlag": 0
+      },
+      "deliveredUser": {
+        "activeFlag": 1,
+        "currnetBalance": 0,
+        "creditLimit": 0,
+        "mobileVerifiedFlag": 0
+      },
+      "invoiceDetails": [],
+      "fromCustomerGST": "33AAACR3582R1ZW",
+      "toCustomerGST": "37AADCS0472N2Z0",
+      "transitCargoDetails": [
+        {
+          "code": "ODO1VI385230B6",
+          "activeFlag": 1,
+          "loadedCount": 0,
+          "unLoadedCount": 0,
+          "startOdometer": 0,
+          "endOdometer": 0
+        }
+      ],
+      "serviceTax": 0,
+      "serviceCharge": 0,
+      "vendorUser": {
+        "activeFlag": 1,
+        "hideCargoFreight": 0,
+        "creditLimit": 0,
+        "invoiceDueDays": 0,
+        "settlementDueDays": 0,
+        "emailVerifiedFlag": 0
+      },
+      "paymentSettlementFlag": 0,
+      "paymentSettlementDate": "NA",
+      "tax": {
+        "activeFlag": 1
+      },
+      "transitVehicle": {
+        "code": "BVHM1RG4234",
+        "name": "ss",
+        "activeFlag": 1,
+        "registrationDate": "2022-01-27",
+        "registationNumber": "TN82 5678",
+        "averageMileage": 0,
+        "fuelTankCapacity": 0,
+        "oilCapacity": 0,
+        "adblueCapacity": 0,
+        "loadCapacity": 0,
+        "lastOdometer": 0
+      },
+      "additionalAttribute": {
+        "CARGO_PARTIAL_STATUS_FLAG": "0",
+        "fromCustomerGstType": "INDL",
+        "REFERENCE_CARGO_CODE": "SLRA-01777",
+        "SEQUENCE_TYPE": "",
+        "CARGO_PARTITION_FLAG": "1",
+        "CARGO_LOOKUP_CODE": "SLRA-01777",
+        "toCustomerGstType": "INDL",
+        "SLUG": "ezcg.in/c/tfrz",
+        "LOAD_TYPE": "RGL",
+        "PRIVATE_MARK_NUMBER": "",
+        "SHIPMENT_TYPE": "OUT"
+      },
+      "cargoAddonsDetails": [],
+      "remarks": []
+    }
+  },
+  {
+    "cargo_code": "SLRA-01784-B1",
+    "cargo_item_name": "Bike",
+    "cargo_item_description": "test",
+    "cargo_status_code": "CL",
+    "payment_status_code": "INP",
+    "booked_at": "2024-01-31 18:18:47",
+    "delivered_at": null,
+    "total_item_count": 1,
+    "total_unit_value": 0,
+    "total_actual_unit_value": 0,
+    "transaction_amount": 0,
+    "commission_amount": 0,
+    "pickup_handling_amount": 0,
+    "delivery_handling_amount": 0,
+    "hamali_charge": 0,
+    "pass_charge": 0,
+    "docket_charge": 0,
+    "pod_charge": 0,
+    "demurrage_charge": 0,
+    "connecting_charge": 0,
+    "round_off_value": 0,
+    "total_amount": 0,
+    "total_handling_amount": 0,
+    "total_unload_handling_amount": 0,
+    "total_amount_paid": 0,
+    "service_tax": 0,
+    "service_charge": 0,
+    "transaction_mode_code": null,
+    "from_station_code": "STF17D51",
+    "to_station_code": "STF1GI77",
+    "from_station_short_code": "01",
+    "to_station_short_code": null,
+    "from_station_name": "Chennai",
+    "to_station_name": "Trichy",
+    "transit_organization_code": "ORM1KKK2",
+    "transit_organization_short_code": "TRY",
+    "other_charges": "pickup_handling_amount:0.00,delivery_handling_amount:0.00,hamali_charge:0.00,pass_charge:0.00,docket_charge:0.00,service_charge:0.00,service_tax:0.00,total_handling_amount:0.00,total_unload_handling_amount:0.00,pod_charge:0.00,demurrage_charge:0.00,connecting_charges:0.00,round_off:0.00",
+    "other_charges_amount": 0,
+    "transit_organization_name": "TRICHY",
+    "transit_station_code": "STF1GI77",
+    "transit_station_name": "Trichy",
+    "user_code": "URN1OIJ62",
+    "user_first_name": "walltax",
+    "from_customer_name": "ASD",
+    "to_customer_name": "NEWLINE 2",
+    "from_customer_mobile": "9500002326",
+    "to_customer_mobile": "0000094985",
+    "from_organization_code": "ORN1OIH27",
+    "from_organization_name": "CHENNAI - WALLTAX",
+    "from_organization_short_code": "CHW",
+    "to_organization_code": "ORM1KKK2",
+    "to_organization_name": "TRICHY",
+    "to_organization_short_code": "TRY",
+    "transit_from_organization_code": "OGF15670",
+    "transit_from_organization_short_code": "KOY",
+    "transit_from_organization_name": "KOYEAMBEDU",
+    "transit_to_organization_code": "ORM1KKK2",
+    "transit_to_organization_short_code": "TRY",
+    "transit_to_organization_name": "TRICHY",
+    "transit_from_station_code": "STF17D51",
+    "transit_from_station_short_code": "01",
+    "transit_from_station_name": "Chennai",
+    "transit_to_station_code": "STF1GI77",
+    "transit_to_station_short_code": null,
+    "transit_to_station_name": "Trichy",
+    "eway_bill_no": null,
+    "start_odometer": 0,
+    "end_odometer": 0,
+    "pickup_type_code": "DYSE",
+    "delivery_type_code": "DYSE",
+    "door_delivery_remarks_code": null,
+    "door_delivery_remarks": null,
+    "door_delivery_handover_person": null,
+    "remarks_count": 0,
+    "booking_remarks": null,
+    "unloading_remarks": null,
+    "payment_settlement_flag": 0,
+    "additional_status_code": null,
+    "load_type": "RGL",
+    "private_mark_number": "",
+    "transit_details_type": "DFLT",
+    "cargo_type": "PBO",
+    "item_details": "CIO1VI49P1112,Bike-1",
+    "cargoData": {
+      "code": "SLRA-01784-B1",
+      "activeFlag": 1,
+      "fromStation": {
+        "code": "STF17D51",
+        "name": "Chennai",
+        "activeFlag": 1,
+        "shortCode": "01"
+      },
+      "toStation": {
+        "code": "STF1GI77",
+        "name": "Trichy",
+        "activeFlag": 1,
+        "shortCode": ""
+      },
+      "fromOrganization": {
+        "code": "ORN1OIH27",
+        "name": "CHENNAI - WALLTAX",
+        "activeFlag": 1,
+        "address1": "54,Amman Kovil Street",
+        "address2": "Chennai Wall tax",
+        "contact": "9876213232",
+        "station": {
+          "code": "STF17D51",
+          "activeFlag": 1
+        },
+        "userCount": 0,
+        "shortCode": "CHW",
+        "hubFlag": true,
+        "deviationPercentage": 0,
+        "transitCloseMinutes": 0,
+        "transitHubBranchFlag": false
+      },
+      "toOrganization": {
+        "code": "ORM1KKK2",
+        "name": "TRICHY",
+        "activeFlag": 1,
+        "address1": "49,PALLA STREET, KALAYAMPOONDI village, uthirumearur t.k",
+        "address2": "",
+        "contact": "09655005152",
+        "station": {
+          "code": "STF1GI77",
+          "activeFlag": 1
+        },
+        "userCount": 0,
+        "shortCode": "TRY",
+        "hubFlag": true,
+        "deviationPercentage": 0,
+        "transitCloseMinutes": 0,
+        "transitHubBranchFlag": false
+      },
+      "transitOrganization": {
+        "code": "ORM1KKK2",
+        "name": "TRICHY",
+        "activeFlag": 1,
+        "station": {
+          "code": "STF1GI77",
+          "name": "Trichy",
+          "activeFlag": 1
+        },
+        "userCount": 0,
+        "hubFlag": false,
+        "deviationPercentage": 0,
+        "transitCloseMinutes": 0,
+        "transitHubBranchFlag": false
+      },
+      "fromCustomer": {
+        "code": "CUN76I40777",
+        "name": "ASD",
+        "activeFlag": 1,
+        "mobileNumber": "9500002326"
+      },
+      "toCustomer": {
+        "code": "CUN29G56721",
+        "name": "NEWLINE 2",
+        "activeFlag": 1,
+        "mobileNumber": "0000094985"
+      },
+      "fromCustomerAddress": {
+        "activeFlag": 1,
+        "defaultFlag": 0
+      },
+      "toCustomerAddress": {
+        "activeFlag": 1,
+        "defaultFlag": 0
+      },
+      "itemDetails": [
+        {
+          "code": "CIO1VI49P1112",
+          "activeFlag": 1,
+          "cargoItem": {
+            "code": "CILAUIR2",
+            "name": "Bike",
+            "activeFlag": 1,
+            "docRequriedFlag": 0,
+            "gstExemptedFlag": false,
+            "description": [
+              "test"
+            ]
+          },
+          "handlingChargeAmount": 0,
+          "unloadingChargeAmount": 0,
+          "fare": 0,
+          "unit": {
+            "code": "NPPKG",
+            "name": "No Price per Kg",
+            "activeFlag": 1
+          },
+          "itemCount": 1,
+          "unitValue": 1,
+          "actualUnitValue": 0,
+          "serviceTax": 0,
+          "tax": {
+            "activeFlag": 1
+          },
+          "itemCountPortion": [
+            "5"
+          ]
+        }
+      ],
+      "paymentType": {
+        "code": "INP",
+        "name": "On Account",
+        "activeFlag": 1
+      },
+      "deliveryType": {
+        "code": "DYSE",
+        "name": "Self Pickup",
+        "activeFlag": 1
+      },
+      "pickupType": {
+        "code": "DYSE",
+        "name": "Self Pickup",
+        "activeFlag": 1
+      },
+      "cargoType": {
+        "code": "PBO",
+        "name": "Partial Booking",
+        "activeFlag": 1
+      },
+      "paymentAmount": 0,
+      "deliveryHandlingAmount": 0,
+      "pickupHandlingAmount": 0,
+      "hamaliCharge": 0,
+      "passCharge": 0,
+      "docketCharge": 0,
+      "totalAmount": 0,
+      "totalHandlingAmount": 0,
+      "totalUnloadHandlingAmount": 0,
+      "cargoStatus": {
+        "code": "CL",
+        "name": "Cargo Loaded",
+        "activeFlag": 1
+      },
+      "bookedAt": "2024-01-31 18:18:47",
+      "bookedUser": {
+        "code": "URN1OIJ62",
+        "name": "walltax",
+        "activeFlag": 1,
+        "currnetBalance": 0,
+        "creditLimit": 0,
+        "mobileVerifiedFlag": 0
+      },
+      "deliveredUser": {
+        "activeFlag": 1,
+        "currnetBalance": 0,
+        "creditLimit": 0,
+        "mobileVerifiedFlag": 0
+      },
+      "invoiceDetails": [],
+      "fromCustomerGST": "32ABCFM8302L1ZD",
+      "toCustomerGST": "",
+      "transitCargoDetails": [
+        {
+          "code": "ODO1VI385230B6",
+          "activeFlag": 1,
+          "loadedCount": 0,
+          "unLoadedCount": 0,
+          "startOdometer": 0,
+          "endOdometer": 0
+        }
+      ],
+      "serviceTax": 0,
+      "serviceCharge": 0,
+      "vendorUser": {
+        "code": "CCV27851132J",
+        "name": "ADS Soft solutions",
+        "activeFlag": 1,
+        "hideCargoFreight": 0,
+        "creditLimit": 0,
+        "invoiceDueDays": 0,
+        "settlementDueDays": 0,
+        "emailVerifiedFlag": 0
+      },
+      "paymentSettlementFlag": 0,
+      "paymentSettlementDate": "NA",
+      "tax": {
+        "activeFlag": 1
+      },
+      "transitVehicle": {
+        "code": "BVHM1RG4234",
+        "name": "ss",
+        "activeFlag": 1,
+        "registrationDate": "2022-01-27",
+        "registationNumber": "TN82 5678",
+        "averageMileage": 0,
+        "fuelTankCapacity": 0,
+        "oilCapacity": 0,
+        "adblueCapacity": 0,
+        "loadCapacity": 0,
+        "lastOdometer": 0
+      },
+      "additionalAttribute": {
+        "CARGO_PARTIAL_STATUS_FLAG": "0",
+        "fromCustomerGstType": "INDL",
+        "REFERENCE_CARGO_CODE": "SLRA-01784",
+        "SEQUENCE_TYPE": "",
+        "CARGO_PARTITION_FLAG": "1",
+        "CARGO_LOOKUP_CODE": "SLRA-01784-B",
+        "toCustomerGstType": "INDL",
+        "SLUG": "ezcg.in/c/tfrP",
+        "LOAD_TYPE": "RGL",
+        "PRIVATE_MARK_NUMBER": "",
+        "SHIPMENT_TYPE": "OUT"
+      },
+      "cargoAddonsDetails": [],
+      "remarks": []
+    }
+  }
+]
