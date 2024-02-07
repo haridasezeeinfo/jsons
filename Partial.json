@@ -1,0 +1,43 @@
+{
+    "status": 1,
+    "dataRowCount": 2,
+    "datetime": "2024-02-07 15:35:46",
+    "data": [
+      {
+        "code": "CRG2817",
+        "activeFlag": 1,
+        "subCargoList": [
+          {
+            "code": "CRG2817-A"
+          },
+          {
+            "code": "CRG2817-B"
+          }
+        ]
+      },
+      {
+        "code": "CRG2818",
+        "activeFlag": 1,
+        "subCargoList": [
+          {
+            "code": "CRG2818-A"
+          },
+          {
+            "code": "CRG2818-B"
+          }
+        ]
+      },
+      {
+        "code": "CRG2819",
+        "activeFlag": 0,
+        "name": "Error Message",
+        "subCargoList": []
+      },
+      {
+        "code": "CRG220",
+        "activeFlag": 0,
+        "name": "Error Message",
+        "subCargoList": []
+      }
+    ]
+  }
